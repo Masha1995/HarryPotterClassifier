@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <source><![CDATA[https://harrypotter.fandom.com/ru/wiki/%D0%91%D0%B0%D1%80%D1%82%D0%BE%D0%BB%D0%BE%D0%BC%D1%8C%D1%8E]]></source>
+  <category verify="true" type="str" auto="true">Фантастика</category>
+  <title verify="true" type="str" auto="true"><![CDATA[Бартоломью]]></title>
+  <keywords verify="true" type="list" auto="true">
+    <item type="str"><![CDATA[Персонажи по алфавиту]]></item>
+    <item type="str"><![CDATA[Преподаватели Хогвартса]]></item>
+    <item type="str"><![CDATA[Штат Хогвартса]]></item>
+    <item type="str"><![CDATA[Волшебники]]></item>
+    <item type="str"><![CDATA[Мужчины]]></item>
+    <item type="str"><![CDATA[Зельевары]]></item>
+  </keywords>
+  <text verify="true" type="str" auto="true"><![CDATA[Бартоломью (англ. Bartholomew) — волшебник, работавший профессором зельеварения в Школе Чародейства и Волшебства Хогвартс в какой-то момент между XV и XIX веками. Он был единственным человеком, которому профессор заклинаний Фортинбрас доверяла во время поиска ею Проклятых хранилищ. Профессор Бартоломью записал все свои исследования относительно Хранилищ древними рунами на колбе в классе зельеварения в надежде на то, что кто-нибудь обнаружит их и продолжит его дело.
+Почти Безголовый Ник был лично знаком с профессором Бартоломью.
+Бартоломью умер до 1887 года и не стал привидением.]]></text>
+</doc>

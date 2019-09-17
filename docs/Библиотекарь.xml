@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <source><![CDATA[https://harrypotter.fandom.com/ru/wiki/%D0%91%D0%B8%D0%B1%D0%BB%D0%B8%D0%BE%D1%82%D0%B5%D0%BA%D0%B0%D1%80%D1%8C]]></source>
+  <category verify="true" type="str" auto="true">Фантастика</category>
+  <title verify="true" type="str" auto="true"><![CDATA[Библиотекарь]]></title>
+  <keywords verify="true" type="list" auto="true">
+    <item type="str"><![CDATA[Административные единицы Хогвартса]]></item>
+    <item type="str"><![CDATA[Профессии]]></item>
+    <item type="str"><![CDATA[Звания и Титулы]]></item>
+  </keywords>
+  <text verify="true" type="str" auto="true"><![CDATA[В должностные обязанности библиотекаря Хогвартса (англ. Librarian) входит выдача и приём литературы. Также библиотекарь следит за сохранностью книг и за соблюдением правил посещения  библиотеки, прежде всего читального зала.
+Известные библиотекари Хогвартса
+Ирма Пинс занимала эту должность в годы учёбы Гарри Поттера]]></text>
+</doc>

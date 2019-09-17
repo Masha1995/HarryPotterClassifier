@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <source><![CDATA[https://harrypotter.fandom.com/ru/wiki/%D0%A2%D0%B5%D0%BD%D0%B5%D0%B1%D1%80%D1%83%D1%81]]></source>
+  <category verify="true" type="str" auto="true">Фантастика</category>
+  <title verify="true" type="str" auto="true"><![CDATA[Тенебрус]]></title>
+  <keywords verify="true" type="list" auto="true">
+    <item type="str"><![CDATA[Домашние любимцы]]></item>
+    <item type="str"><![CDATA[Крылатые кони]]></item>
+    <item type="str"><![CDATA[Обитатели Запретного Леса]]></item>
+    <item type="str"><![CDATA[Персонажи по алфавиту]]></item>
+    <item type="str"><![CDATA[Питомцы Рубеуса Хагрида]]></item>
+  </keywords>
+  <text verify="true" type="str" auto="true"><![CDATA[Тенебрус (англ. Tenebrus; лат. «Тёмный») — первый фестрал, родившийся в Запретном Лесу, когда стадо этих волшебных существ в Хогвартсе было ещё малочисленно. Любимец Хагрида.]]></text>
+</doc>

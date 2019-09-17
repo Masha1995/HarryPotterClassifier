@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <source><![CDATA[https://harrypotter.fandom.com/ru/wiki/%D0%91%D0%BB%D0%B5%D0%BD%D1%85%D0%B5%D0%B9%D0%BC_%D0%A1%D1%82%D0%BE%D0%BA]]></source>
+  <category verify="true" type="str" auto="true">Фантастика</category>
+  <title verify="true" type="str" auto="true"><![CDATA[Бленхейм Сток]]></title>
+  <keywords verify="true" type="list" auto="true">
+    <item type="str"><![CDATA[Персонажи по алфавиту]]></item>
+    <item type="str"><![CDATA[Люди]]></item>
+    <item type="str"><![CDATA[Мужчины]]></item>
+    <item type="str"><![CDATA[Волшебники]]></item>
+    <item type="str"><![CDATA[Авторы]]></item>
+    <item type="str"><![CDATA[Рождённые в 1920-е]]></item>
+    <item type="str"><![CDATA[Карточки из шоколадных лягушек]]></item>
+    <item type="str"><![CDATA[Серебряные карточки из шоколадных лягушек]]></item>
+  </keywords>
+  <text verify="true" type="str" auto="true"><![CDATA[Бленхейм Сток (англ. Blenheim Stalk; род. 1920) — эксперт по маглам, прославившийся после выпуска в 1972 году своей книги «Маглы, которые умеют видеть».
+В своей книге он утверждает, что не все жители Илфракомба попали под массовое заклинание Памяти, нанесенное семьей волшебника Тилли Тока. «До сегодняшнего дня магл, по прозвищу Дремучий Дирк, уверяет собутыльников по барам всего южного побережья, что видел «громадную мерзкую ящерицу с крыльями», которая продырявила ему пляжный надувной матрас».]]></text>
+</doc>

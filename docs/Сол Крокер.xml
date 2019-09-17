@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <source><![CDATA[https://harrypotter.fandom.com/ru/wiki/%D0%A1%D0%BE%D0%BB_%D0%9A%D1%80%D0%BE%D0%BA%D0%B5%D1%80]]></source>
+  <category verify="true" type="str" auto="true">Фантастика</category>
+  <title verify="true" type="str" auto="true"><![CDATA[Сол Крокер]]></title>
+  <keywords verify="true" type="list" auto="true">
+    <item type="str"><![CDATA[Персонажи по алфавиту]]></item>
+    <item type="str"><![CDATA[Люди]]></item>
+    <item type="str"><![CDATA[Мужчины]]></item>
+    <item type="str"><![CDATA[Волшебники]]></item>
+    <item type="str"><![CDATA[Сотрудники Министерства Магии]]></item>
+  </keywords>
+  <text verify="true" type="str" auto="true"><![CDATA[Сол Крокер (англ. Saul Croaker) — невыразимец. На протяжении всей своей карьеры в Отделе тайн занимается исследованием магии времени, получил профессорскую степень по этому вопросу.
+В 1994 году вместе с Бродериком Боудом присутствовал на Чемпионате мира по квиддичу. Знаком с Артуром Уизли.]]></text>
+</doc>

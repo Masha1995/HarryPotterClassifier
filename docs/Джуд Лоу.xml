@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <source><![CDATA[https://harrypotter.fandom.com/ru/wiki/%D0%94%D0%B6%D1%83%D0%B4_%D0%9B%D0%BE%D1%83]]></source>
+  <category verify="true" type="str" auto="true">Фантастика</category>
+  <title verify="true" type="str" auto="true"><![CDATA[Джуд Лоу]]></title>
+  <keywords verify="true" type="list" auto="true">
+    <item type="str"><![CDATA[Персоналии по алфавиту]]></item>
+    <item type="str"><![CDATA[Актёры и актрисы/все]]></item>
+    <item type="str"><![CDATA[Актёры и актрисы серии фильмов «Фантастические твари»]]></item>
+  </keywords>
+  <text verify="true" type="str" auto="true"><![CDATA[Джуд Лоу (англ. Jude Law) — британский актёр театра и кино. В фильме «Фантастические твари: Преступления Грин-де-Вальда» сыграл молодого Альбуса Дамблдора.]]></text>
+</doc>

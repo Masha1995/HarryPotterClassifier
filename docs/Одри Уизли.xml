@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <source><![CDATA[https://harrypotter.fandom.com/ru/wiki/%D0%9E%D0%B4%D1%80%D0%B8_%D0%A3%D0%B8%D0%B7%D0%BB%D0%B8]]></source>
+  <category verify="true" type="str" auto="true">Фантастика</category>
+  <title verify="true" type="str" auto="true"><![CDATA[Одри Уизли]]></title>
+  <keywords verify="true" type="list" auto="true">
+    <item type="str"><![CDATA[Персонажи по алфавиту]]></item>
+    <item type="str"><![CDATA[Люди]]></item>
+    <item type="str"><![CDATA[Женщины]]></item>
+    <item type="str"><![CDATA[Персонажи с неясным статусом крови]]></item>
+    <item type="str"><![CDATA[Замужние]]></item>
+    <item type="str"><![CDATA[Семья Уизли]]></item>
+    <item type="str"><![CDATA[Неканонические персонажи]]></item>
+  </keywords>
+  <text verify="true" type="str" auto="true"><![CDATA[Одри Уизли (англ. Audrey Weasley) — жена Перси Уизли. В их браке родились две дочери: Люси Уизли и Молли Уизли.
+Неизвестно, является ли «Уизли» девичьей фамилией Одри. Если это так, то она — родственница Перси. Также неизвестно её статус крови, неизвестно была ли она волшебницей, заканчивала ли она Хогвартс и если да, то какой факультет.
+Этимология
+Одри (фр. Audrey, англ. Audrey) — англоязычное и франкоязычное женское имя; искажённая форма старофранцузского произношения имени святой Этельдреды англосаксонского происхождения (Æthelred — букв. «благородный совет», «благородная сила»).]]></text>
+</doc>

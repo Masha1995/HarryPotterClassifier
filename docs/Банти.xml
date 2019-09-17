@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <source><![CDATA[https://harrypotter.fandom.com/ru/wiki/%D0%91%D0%B0%D0%BD%D1%82%D0%B8]]></source>
+  <category verify="true" type="str" auto="true">Фантастика</category>
+  <title verify="true" type="str" auto="true"><![CDATA[Банти]]></title>
+  <keywords verify="true" type="list" auto="true">
+    <item type="str"><![CDATA[Персонажи по алфавиту]]></item>
+    <item type="str"><![CDATA[Женщины]]></item>
+    <item type="str"><![CDATA[Волшебники]]></item>
+    <item type="str"><![CDATA[Люди]]></item>
+    <item type="str"><![CDATA[Британцы]]></item>
+    <item type="str"><![CDATA[Студенты Хогвартса без названных факультетов]]></item>
+  </keywords>
+  <text verify="true" type="str" auto="true"><![CDATA[Банти (англ. Bunty) — волшебница, жившая в начале XX века. Она обучалась в Школе Чародейства и Волшебства Хогвартс, а после её окончания работала ассистенткой магозоолога Ньюта Саламандера.
+Интересные фаткы
+Однажды, когда она ухаживала за животными в отсутствие Ньюта, она решила помазать мазью кельпи — волшебное существо. В ответ за заботу оно укусило её за палец.]]></text>
+</doc>

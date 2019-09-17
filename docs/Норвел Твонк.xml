@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <source><![CDATA[https://harrypotter.fandom.com/ru/wiki/%D0%9D%D0%BE%D1%80%D0%B2%D0%B5%D0%BB_%D0%A2%D0%B2%D0%BE%D0%BD%D0%BA]]></source>
+  <category verify="true" type="str" auto="true">Фантастика</category>
+  <title verify="true" type="str" auto="true"><![CDATA[Норвел Твонк]]></title>
+  <keywords verify="true" type="list" auto="true">
+    <item type="str"><![CDATA[Персонажи по алфавиту]]></item>
+    <item type="str"><![CDATA[Карточки из шоколадных лягушек]]></item>
+    <item type="str"><![CDATA[Люди]]></item>
+    <item type="str"><![CDATA[Волшебники]]></item>
+    <item type="str"><![CDATA[Рождённые в 19 веке]]></item>
+    <item type="str"><![CDATA[Мужчины]]></item>
+    <item type="str"><![CDATA[Бронзовые карточки из шоколадных лягушек]]></item>
+    <item type="str"><![CDATA[Умершие]]></item>
+    <item type="str"><![CDATA[Портреты]]></item>
+    <item type="str"><![CDATA[Персонажи с неясным статусом крови]]></item>
+    <item type="str"><![CDATA[Британцы]]></item>
+    <item type="str"><![CDATA[Кавалеры Ордена Мерлина]]></item>
+    <item type="str"><![CDATA[Убитые волшебными существами]]></item>
+  </keywords>
+  <text verify="true" type="str" auto="true"><![CDATA[Норвел Твонк (англ. Norvel Twonk; 1888—1957) — волшебник, известный тем, что спас магловского ребёнка от мантикоры, при этом сам погиб. Награждён Орденом Мерлина первой степени, посмертно.
+В Хогвартсе есть портрет Норвела Твонка, который открывает проход с лестницы в холл. Пароль к нему — «Мантикора».]]></text>
+</doc>

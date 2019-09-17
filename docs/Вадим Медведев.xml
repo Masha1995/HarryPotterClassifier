@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <source><![CDATA[https://harrypotter.fandom.com/ru/wiki/%D0%92%D0%B0%D0%B4%D0%B8%D0%BC_%D0%9C%D0%B5%D0%B4%D0%B2%D0%B5%D0%B4%D0%B5%D0%B2]]></source>
+  <category verify="true" type="str" auto="true">Фантастика</category>
+  <title verify="true" type="str" auto="true"><![CDATA[Вадим Медведев]]></title>
+  <keywords verify="true" type="list" auto="true">
+    <item type="str"><![CDATA[Персоналии по алфавиту]]></item>
+    <item type="str"><![CDATA[Актёры дубляжа]]></item>
+  </keywords>
+  <text verify="true" type="str" auto="true"><![CDATA[Медведев Вадим Михайлович (3 октября 1974) — российский актёр театра и кино, режиссёр. В фильме «Фантастические твари и где они обитают» дублировал Колина Фаррелла в роли Персиваля Грейвса.]]></text>
+</doc>

@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <source><![CDATA[https://harrypotter.fandom.com/ru/wiki/%D0%9B%D1%8E%D0%BA%D1%81%D0%B5%D0%BC%D0%B1%D1%83%D1%80%D0%B3]]></source>
+  <category verify="true" type="str" auto="true">Фантастика</category>
+  <title verify="true" type="str" auto="true"><![CDATA[Люксембург]]></title>
+  <keywords verify="true" type="list" auto="true">
+    <item type="str"><![CDATA[Европа]]></item>
+    <item type="str"><![CDATA[Страны]]></item>
+    <item type="str"><![CDATA[Локации по алфавиту]]></item>
+  </keywords>
+  <text verify="true" type="str" auto="true"><![CDATA[Люксембург (англ. Luxembourg) — великое герцогство на западе Европы. Граничит с Германией, Францией и Бельгией. Столица государства — Люксембург.
+В Люксембурге есть квиддичная команда «Бигонвилльские бомбардиры». Также в 1994 году в Чемпионате мира по квиддичу Сборная Люксембурга обыграла Сборную Шотландии, однако не смогла пробиться в финал.]]></text>
+</doc>

@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <source><![CDATA[https://harrypotter.fandom.com/ru/wiki/%D0%9E%D0%B3%D0%B3]]></source>
+  <category verify="true" type="str" auto="true">Фантастика</category>
+  <title verify="true" type="str" auto="true"><![CDATA[Огг]]></title>
+  <keywords verify="true" type="list" auto="true">
+    <item type="str"><![CDATA[Персонажи по алфавиту]]></item>
+    <item type="str"><![CDATA[Персонал Хогвартса]]></item>
+    <item type="str"><![CDATA[Волшебники]]></item>
+    <item type="str"><![CDATA[Люди]]></item>
+    <item type="str"><![CDATA[Мужчины]]></item>
+    <item type="str"><![CDATA[Персонажи с неясным статусом крови]]></item>
+    <item type="str"><![CDATA[Британцы]]></item>
+  </keywords>
+  <text verify="true" type="str" auto="true"><![CDATA[Огг (англ. Ogg; имя и годы жизни неизвестны) — лесничий, предшественник Хагрида на этой должности. Про его жизнь почти ничего неизвестно.
+Известно, что Огг ещё работал во времена учёбы Молли и Артура Уизли. В то время под его руководством, вероятно, работал Хагрид, исключённый из-за событий 1943 года. Видимо, ушёл с должности когда Альбус Дамблдор стал директором (около 1956 года).]]></text>
+</doc>

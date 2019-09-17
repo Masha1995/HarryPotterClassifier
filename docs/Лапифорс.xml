@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <source><![CDATA[https://harrypotter.fandom.com/ru/wiki/%D0%9B%D0%B0%D0%BF%D0%B8%D1%84%D0%BE%D1%80%D1%81]]></source>
+  <category verify="true" type="str" auto="true">Фантастика</category>
+  <title verify="true" type="str" auto="true"><![CDATA[Лапифорс]]></title>
+  <keywords verify="true" type="list" auto="true">
+    <item type="str"><![CDATA[Заклинания по алфавиту]]></item>
+    <item type="str"><![CDATA[Трансфигурационные заклинания]]></item>
+  </keywords>
+  <text verify="true" type="str" auto="true"><![CDATA[Заклинанием Лапифорс (англ. Lapifors Spell) можно превратить в кролика какой-либо небольшой предмет, в том числе кошку, саламандру и статуэтку кролика. Применивший это заклинание волшебник или волшебница может управлять кроликом. Заклинание потеряет силу, после того как будет достигнута цель колдующего.
+Заклинание изучается на 3 году обучения в Хогвартсе и есть в «Стандартной книге заклинаний. 3 курс».
+Этимология
+Заклинание происходит от лат. «lepus», что в переводе означает «заяц».]]></text>
+</doc>

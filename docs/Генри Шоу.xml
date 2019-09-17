@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <source><![CDATA[https://harrypotter.fandom.com/ru/wiki/%D0%93%D0%B5%D0%BD%D1%80%D0%B8_%D0%A8%D0%BE%D1%83]]></source>
+  <category verify="true" type="str" auto="true">Фантастика</category>
+  <title verify="true" type="str" auto="true"><![CDATA[Генри Шоу]]></title>
+  <keywords verify="true" type="list" auto="true">
+    <item type="str"><![CDATA[Персонажи по алфавиту]]></item>
+    <item type="str"><![CDATA[Маглы]]></item>
+    <item type="str"><![CDATA[Американцы]]></item>
+    <item type="str"><![CDATA[Мужчины]]></item>
+    <item type="str"><![CDATA[Люди]]></item>
+    <item type="str"><![CDATA[Жители Нью-Йорка]]></item>
+    <item type="str"><![CDATA[Потерявшие память]]></item>
+    <item type="str"><![CDATA[Шоу]]></item>
+  </keywords>
+  <text verify="true" type="str" auto="true"><![CDATA[Генри Шоу-старший (англ. Henry Shaw Sr.) — американский не-маг, в 20-е годы прошлого века являлся влиятельным газетным магнатом города Нью-Йорк.]]></text>
+</doc>

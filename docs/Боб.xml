@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <source><![CDATA[https://harrypotter.fandom.com/ru/wiki/%D0%91%D0%BE%D0%B1]]></source>
+  <category verify="true" type="str" auto="true">Фантастика</category>
+  <title verify="true" type="str" auto="true"><![CDATA[Боб]]></title>
+  <keywords verify="true" type="list" auto="true">
+    <item type="str"><![CDATA[Сотрудники Министерства Магии]]></item>
+    <item type="str"><![CDATA[Персонажи по алфавиту]]></item>
+    <item type="str"><![CDATA[Люди]]></item>
+    <item type="str"><![CDATA[Волшебники]]></item>
+    <item type="str"><![CDATA[Мужчины]]></item>
+    <item type="str"><![CDATA[Персонажи с неясным статусом крови]]></item>
+    <item type="str"><![CDATA[Британцы]]></item>
+    <item type="str"><![CDATA[Сотрудники Отдела регулирования магических популяций и контроля над ними]]></item>
+  </keywords>
+  <text verify="true" type="str" auto="true"><![CDATA[Боб (англ. Bob; фамилия не известна) — рослый бородатый волшебник, сотрудник Отдела регулирования магических популяций и контроля над ними. 11 августа 1995 года Гарри и мистер Уизли встретили его в лифте Министерства Магии. Он вёз на комиссию плюющегося огнём цыплёнка.]]></text>
+</doc>

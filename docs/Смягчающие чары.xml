@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <source><![CDATA[https://harrypotter.fandom.com/ru/wiki/%D0%A1%D0%BC%D1%8F%D0%B3%D1%87%D0%B0%D1%8E%D1%89%D0%B8%D0%B5_%D1%87%D0%B0%D1%80%D1%8B]]></source>
+  <category verify="true" type="str" auto="true">Фантастика</category>
+  <title verify="true" type="str" auto="true"><![CDATA[Смягчающие чары]]></title>
+  <keywords verify="true" type="list" auto="true">
+    <item type="str"><![CDATA[Заклинания по алфавиту]]></item>
+    <item type="str"><![CDATA[Чары]]></item>
+  </keywords>
+  <text verify="true" type="str" auto="true"><![CDATA[Смягчающие чары (Спанджифай) (англ. Softening Charm(Spongify)) — чары, которые делают предметы очень мягкими и упругими, словно батут.
+Широко используется во второй и третьей играх о Гарри Поттере. Приземлившись на заколдованную поверхность, игрок очень высоко подпрыгнет и переместится в пункт назначения. По пути он может собирать конфетки, печенье и кексы.
+Изучается на 1 курсе Хогвартса. Заклинание присутствует в «Курсической книге заговоров и заклинаний».]]></text>
+</doc>

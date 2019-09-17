@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <source><![CDATA[https://harrypotter.fandom.com/ru/wiki/%D0%94%D0%B5%D0%B1%D0%B1%D0%B8_%D0%9C%D1%83%D0%BD%D1%82%D1%86]]></source>
+  <category verify="true" type="str" auto="true">Фантастика</category>
+  <title verify="true" type="str" auto="true"><![CDATA[Дебби Мунтц]]></title>
+  <keywords verify="true" type="list" auto="true">
+    <item type="str"><![CDATA[Персонажи по алфавиту]]></item>
+    <item type="str"><![CDATA[Люди]]></item>
+    <item type="str"><![CDATA[Женщины]]></item>
+    <item type="str"><![CDATA[Волшебники]]></item>
+    <item type="str"><![CDATA[Рождённые в XX веке]]></item>
+    <item type="str"><![CDATA[Персонажи с неясным статусом крови]]></item>
+    <item type="str"><![CDATA[Игроки в квиддич]]></item>
+    <item type="str"><![CDATA[Охотники в квиддиче]]></item>
+    <item type="str"><![CDATA[Американцы]]></item>
+    <item type="str"><![CDATA[Неканонические персонажи]]></item>
+  </keywords>
+  <text verify="true" type="str" auto="true"><![CDATA[Дебби Мунтц (англ. Debbie Muntz) — охотник Сборной США по квиддичу, игравшая за команду в 1993-1994 гг. Принимала участие в Чемпионате мира 1994 года.]]></text>
+</doc>

@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <source><![CDATA[https://harrypotter.fandom.com/ru/wiki/%D0%9C%D0%B0%D1%80%D0%BB%D0%B8%D0%BD_%D0%9C%D0%B0%D0%BA%D0%9A%D0%B8%D0%BD%D0%BD%D0%BE%D0%BD]]></source>
+  <category verify="true" type="str" auto="true">Фантастика</category>
+  <title verify="true" type="str" auto="true"><![CDATA[Марлин МакКиннон]]></title>
+  <keywords verify="true" type="list" auto="true">
+    <item type="str"><![CDATA[Персонажи по алфавиту]]></item>
+    <item type="str"><![CDATA[Орден Феникса]]></item>
+    <item type="str"><![CDATA[Люди]]></item>
+    <item type="str"><![CDATA[Женщины]]></item>
+    <item type="str"><![CDATA[Волшебники]]></item>
+    <item type="str"><![CDATA[Умершие в 1981]]></item>
+    <item type="str"><![CDATA[Персонажи с неясным статусом крови]]></item>
+    <item type="str"><![CDATA[Студенты Хогвартса без названных факультетов]]></item>
+    <item type="str"><![CDATA[Британцы]]></item>
+  </keywords>
+  <text verify="true" type="str" auto="true"><![CDATA[Марлин МакКиннон (англ. Marlene McKinnon; существует также вариант написания «Марлин Маккиннон») — член Ордена Феникса первого состава. Убита вместе со своей семьёй Пожирателями смерти.
+О смерти Марлин и её семьи упоминается в письме Лили Поттер к Сириусу Блэку:]]></text>
+</doc>

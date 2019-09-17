@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <source><![CDATA[https://harrypotter.fandom.com/ru/wiki/%D0%A3%D0%B8%D0%BB%D1%8C%D1%8F%D0%BC_%D0%9E%D0%BB%D0%B4%D0%B5%D1%80%D1%82%D0%BE%D0%BD]]></source>
+  <category verify="true" type="str" auto="true">Фантастика</category>
+  <title verify="true" type="str" auto="true"><![CDATA[Уильям Олдертон]]></title>
+  <keywords verify="true" type="list" auto="true">
+    <item type="str"><![CDATA[Персонажи по алфавиту]]></item>
+    <item type="str"><![CDATA[Неканонические персонажи]]></item>
+    <item type="str"><![CDATA[Люди]]></item>
+    <item type="str"><![CDATA[Волшебники]]></item>
+    <item type="str"><![CDATA[Мужчины]]></item>
+    <item type="str"><![CDATA[Сотрудники Министерства Магии]]></item>
+    <item type="str"><![CDATA[Умершие]]></item>
+    <item type="str"><![CDATA[Персонажи с неясным статусом крови]]></item>
+  </keywords>
+  <text verify="true" type="str" auto="true"><![CDATA[Уильям Олдертон (англ. William Alderton) — волшебник, служивший в Министерстве магии на протяжении тридцати лет. Примечателен тем, что всё время носил пиджак наизнанку. Умер до 1997 года, когда осужденный Комиссией по учёту магловских выродков некий Олдертон назвал его своим отцом. Скорее всего, он существовал на самом деле и был однофамильцем Олдертона, так как тот был всё-таки осужден Комиссией. Существует также вероятность, что он был выдуман Олдертоном.]]></text>
+</doc>

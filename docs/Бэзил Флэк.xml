@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <source><![CDATA[https://harrypotter.fandom.com/ru/wiki/%D0%91%D1%8D%D0%B7%D0%B8%D0%BB_%D0%A4%D0%BB%D1%8D%D0%BA]]></source>
+  <category verify="true" type="str" auto="true">Фантастика</category>
+  <title verify="true" type="str" auto="true"><![CDATA[Бэзил Флэк]]></title>
+  <keywords verify="true" type="list" auto="true">
+    <item type="str"><![CDATA[Люди]]></item>
+    <item type="str"><![CDATA[Волшебники]]></item>
+    <item type="str"><![CDATA[Рождённые в 18 веке]]></item>
+    <item type="str"><![CDATA[Персонажи с неясным статусом крови]]></item>
+    <item type="str"><![CDATA[Персонажи по алфавиту]]></item>
+    <item type="str"><![CDATA[Сотрудники Министерства Магии]]></item>
+    <item type="str"><![CDATA[Мужчины]]></item>
+    <item type="str"><![CDATA[Британцы]]></item>
+    <item type="str"><![CDATA[Перевод эксклюзивной информации с Pottermore]]></item>
+    <item type="str"><![CDATA[Неканонические персонажи]]></item>
+    <item type="str"><![CDATA[Министры магии Великобритании]]></item>
+  </keywords>
+  <text verify="true" type="str" auto="true"><![CDATA[Бэзил Флэк (англ. Basil Flack) — шестой министр магии Великобритании (1752). Преемник Альберта Бута.
+Меньше всех пробыл в этой должности, всего два месяца. Подал в отставку после того, как восставшие гоблины объединили свои силы с оборотнями.]]></text>
+</doc>

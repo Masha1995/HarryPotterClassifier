@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <source><![CDATA[https://harrypotter.fandom.com/ru/wiki/%D0%9C%D0%B5%D1%80%D0%B2%D0%B8%D0%BD_%D0%97%D0%BB%D0%BE%D0%B1%D0%BD%D1%8B%D0%B9]]></source>
+  <category verify="true" type="str" auto="true">Фантастика</category>
+  <title verify="true" type="str" auto="true"><![CDATA[Мервин Злобный]]></title>
+  <keywords verify="true" type="list" auto="true">
+    <item type="str"><![CDATA[Персонажи по алфавиту]]></item>
+    <item type="str"><![CDATA[Карточки из шоколадных лягушек]]></item>
+    <item type="str"><![CDATA[Тёмные маги]]></item>
+    <item type="str"><![CDATA[Люди]]></item>
+    <item type="str"><![CDATA[Мужчины]]></item>
+    <item type="str"><![CDATA[Волшебники]]></item>
+    <item type="str"><![CDATA[Бронзовые карточки из шоколадных лягушек]]></item>
+    <item type="str"><![CDATA[Персонажи с неясным статусом крови]]></item>
+    <item type="str"><![CDATA[Изобретатели заклинаний]]></item>
+    <item type="str"><![CDATA[Исторические персонажи]]></item>
+  </keywords>
+  <text verify="true" type="str" auto="true"><![CDATA[Мервин Злобный (англ. Merwyn the Malicious) — средневековый тёмный маг. Изобрёл множество весьма неприятных проклятий и заклинаний. Имел крючковатую волшебную палочку.
+Был запечатлен на карточках от шоколадных лягушек.
+В замке Хогвартс висел портрет Мервина, охранявший тайный короткий путь, который соединял площадку четвёртого этажа Большой лестницы с холлом первого этажа. Пароль для доступа к этому проходу — «Злорадство».]]></text>
+</doc>

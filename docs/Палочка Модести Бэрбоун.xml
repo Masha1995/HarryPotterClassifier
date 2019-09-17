@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <source><![CDATA[https://harrypotter.fandom.com/ru/wiki/%D0%9F%D0%B0%D0%BB%D0%BE%D1%87%D0%BA%D0%B0_%D0%9C%D0%BE%D0%B4%D0%B5%D1%81%D1%82%D0%B8_%D0%91%D1%8D%D1%80%D0%B1%D0%BE%D1%83%D0%BD]]></source>
+  <category verify="true" type="str" auto="true">Фантастика</category>
+  <title verify="true" type="str" auto="true"><![CDATA[Палочка Модести Бэрбоун]]></title>
+  <keywords verify="true" type="list" auto="true">
+    <item type="str"><![CDATA[Волшебные палочки]]></item>
+    <item type="str"><![CDATA[Сломанные волшебные палочки]]></item>
+  </keywords>
+  <text verify="true" type="str" auto="true"><![CDATA[Эта волшебная палочка (англ. Modesty Barebone's wand) принадлежала Модести Бэрбоун. Палочка была сделана из неизвестной породы дерева. Её отличительной особенностью были вырезанные на ручке буквы «TSM». Неизвестно, каким образом она получила её.
+После того, как Криденс обнаруживает волшебную палочку, Модести заявляет, что это просто игрушка, однако Мэри Лу все равно отбирает её и ломает надвое.
+Интересные факты
+В игре «LEGO Dimensions» Модести говорит, что палочку ей дала некая Бетти Бургесс.]]></text>
+</doc>

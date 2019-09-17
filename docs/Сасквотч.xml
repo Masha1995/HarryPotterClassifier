@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <source><![CDATA[https://harrypotter.fandom.com/ru/wiki/%D0%A1%D0%B0%D1%81%D0%BA%D0%B2%D0%BE%D1%82%D1%87]]></source>
+  <category verify="true" type="str" auto="true">Фантастика</category>
+  <title verify="true" type="str" auto="true"><![CDATA[Сасквотч]]></title>
+  <keywords verify="true" type="list" auto="true">
+    <item type="str"><![CDATA[Волшебные существа по алфавиту]]></item>
+  </keywords>
+  <text verify="true" type="str" auto="true"><![CDATA[Сасквотч (англ. Sasquatch), также известный как бигфут — название предполагаемого млекопитающего, похожего на человекообразную обезьяну, обитающего в лесах Северо-Тихоокеанского региона Северной Америки. Обычно его описывают как большого волосатого гоминида, передвигающегося на двух ногах.
+Возможно, по классификации Министерства магии сасквотчи приравнены к йети.
+История
+Случившееся в 1892 год Великое Восстание Сасквотчей является самым известным событием с участием данных особей.]]></text>
+</doc>

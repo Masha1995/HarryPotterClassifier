@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <source><![CDATA[https://harrypotter.fandom.com/ru/wiki/%D0%99%D0%BE%D0%B7%D0%B5%D1%84_%D0%92%D1%80%D0%BE%D0%BD%D1%81%D0%BA%D0%B8%D0%B9]]></source>
+  <category verify="true" type="str" auto="true">Фантастика</category>
+  <title verify="true" type="str" auto="true"><![CDATA[Йозеф Вронский]]></title>
+  <keywords verify="true" type="list" auto="true">
+    <item type="str"><![CDATA[Персонажи по алфавиту]]></item>
+    <item type="str"><![CDATA[Люди]]></item>
+    <item type="str"><![CDATA[Волшебники]]></item>
+    <item type="str"><![CDATA[Мужчины]]></item>
+    <item type="str"><![CDATA[Игроки в квиддич]]></item>
+    <item type="str"><![CDATA[Ловцы в квиддиче]]></item>
+    <item type="str"><![CDATA[Персонажи с неясным статусом крови]]></item>
+    <item type="str"><![CDATA[Поляки]]></item>
+  </keywords>
+  <text verify="true" type="str" auto="true"><![CDATA[Йозеф Вронский (англ. Josef Wronski) — поляк, известный квиддичный игрок команды «Гоблины Гродзиска». Кеннилуорти Уисп называл его самым известным ловцом в мире.
+Является создателем приёма Финт Вронского. В его честь названа премия за отличные навыки полёта, обладателями которой в 1931 году стала команда «Пушки Педдл».]]></text>
+</doc>

@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <source><![CDATA[https://harrypotter.fandom.com/ru/wiki/%D0%AD%D1%80%D0%B8%D0%BA_%D0%9C%D0%B0%D0%BD%D1%87]]></source>
+  <category verify="true" type="str" auto="true">Фантастика</category>
+  <title verify="true" type="str" auto="true"><![CDATA[Эрик Манч]]></title>
+  <keywords verify="true" type="list" auto="true">
+    <item type="str"><![CDATA[Персонажи по алфавиту]]></item>
+    <item type="str"><![CDATA[Сотрудники Министерства Магии]]></item>
+    <item type="str"><![CDATA[Люди]]></item>
+    <item type="str"><![CDATA[Мужчины]]></item>
+    <item type="str"><![CDATA[Волшебники]]></item>
+    <item type="str"><![CDATA[Персонажи с неясным статусом крови]]></item>
+  </keywords>
+  <text verify="true" type="str" auto="true"><![CDATA[Эрик Манч (англ. Eric Munch)— дежурный колдун в Министерстве Магии, чей пост находится на первом этаже, в Атриуме. 
+Не слишком умный, не особенно внимательный, не отличающийся аккуратностью. Это он зарегистрировал волшебную палочку Гарри, когда юноша пришёл с мистером Уизли на дисциплинарное слушание. В другой раз о мистере Манче написал «Ежедневный пророк», как о дежурном, который задержал Стерджиса Подмора, который пытался проникнуть в закрытый сектор Министерства.]]></text>
+</doc>

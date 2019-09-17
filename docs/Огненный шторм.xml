@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <source><![CDATA[https://harrypotter.fandom.com/ru/wiki/%D0%9E%D0%B3%D0%BD%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9_%D1%88%D1%82%D0%BE%D1%80%D0%BC]]></source>
+  <category verify="true" type="str" auto="true">Фантастика</category>
+  <title verify="true" type="str" auto="true"><![CDATA[Огненный шторм]]></title>
+  <keywords verify="true" type="list" auto="true">
+    <item type="str"><![CDATA[Заклинания по алфавиту]]></item>
+    <item type="str"><![CDATA[Заклинания с неизвестной формулой]]></item>
+    <item type="str"><![CDATA[Заклинания Воспламенения]]></item>
+    <item type="str"><![CDATA[Чары]]></item>
+  </keywords>
+  <text verify="true" type="str" auto="true"><![CDATA[Огненный шторм (англ. Firestorm) — чары, вызывающее мощный огонь. Заклинатель направляет огонь при помощи волшебной палочки (пламя будет направляться туда, куда и рука заклинателя, создавая эффект лассо).
+Заклинание Партис Темпорус создает коридор в потоке этого пламени, через который волшебник может свободно покинуть созданный им огненный вихрь.]]></text>
+</doc>

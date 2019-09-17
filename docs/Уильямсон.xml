@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <source><![CDATA[https://harrypotter.fandom.com/ru/wiki/%D0%A3%D0%B8%D0%BB%D1%8C%D1%8F%D0%BC%D1%81%D0%BE%D0%BD]]></source>
+  <category verify="true" type="str" auto="true">Фантастика</category>
+  <title verify="true" type="str" auto="true"><![CDATA[Уильямсон]]></title>
+  <keywords verify="true" type="list" auto="true">
+    <item type="str"><![CDATA[Персонажи по алфавиту]]></item>
+    <item type="str"><![CDATA[Люди]]></item>
+    <item type="str"><![CDATA[Мракоборцы]]></item>
+    <item type="str"><![CDATA[Сотрудники Министерства Магии]]></item>
+    <item type="str"><![CDATA[Мужчины]]></item>
+    <item type="str"><![CDATA[Волшебники]]></item>
+    <item type="str"><![CDATA[Британцы]]></item>
+    <item type="str"><![CDATA[Требует доработки]]></item>
+    <item type="str"><![CDATA[Сотрудники Отдела магического правопорядка]]></item>
+  </keywords>
+  <text verify="true" type="str" auto="true"><![CDATA[Уильямсон (англ. Williamson) — сотрудник министерства магии, мракоборец из охраны министра Фаджа. Описан как человек в алой мантии, с длинными волосами, собранными в хвост. Гарри встречается с ним дважды: 12 августа 1995 года, в день дисциплинарного слушания и в день Битвы в Отделе тайн. Уильямсон был в числе мракоборцев, прибывших в министерство после сражения и успевших заметить Волан-де-Морта и Беллатрису Лестрейндж. По приказу Фаджа, Уильямсон и Долиш были отправлены в Отдел тайн, чтобы арестовать связанных Пожирателей смерти.]]></text>
+</doc>

@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <source><![CDATA[https://harrypotter.fandom.com/ru/wiki/%D0%9C%D0%B8%D0%BB%D0%BB%D0%B8]]></source>
+  <category verify="true" type="str" auto="true">Фантастика</category>
+  <title verify="true" type="str" auto="true"><![CDATA[Милли]]></title>
+  <keywords verify="true" type="list" auto="true">
+    <item type="str"><![CDATA[Жмыры]]></item>
+    <item type="str"><![CDATA[Домашние любимцы]]></item>
+    <item type="str"><![CDATA[Питомцы Ньюта Саламандера]]></item>
+  </keywords>
+  <text verify="true" type="str" auto="true"><![CDATA[Милли (англ. Milly) — жмыр, домашний любимец Ньюта Саламандера. Помимо этого жмыра у магозоолога Саламандера есть ещё два: Прыгалка и Боксёр.
+Если учесть, что без особого разрешения волшебник не может завести жмыра (если, конечно, это не полукоты, как Живоглот), то значит магозоолог Ньют имеет соответствующую лицензию.]]></text>
+</doc>

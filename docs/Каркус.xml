@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <source><![CDATA[https://harrypotter.fandom.com/ru/wiki/%D0%9A%D0%B0%D1%80%D0%BA%D1%83%D1%81]]></source>
+  <category verify="true" type="str" auto="true">Фантастика</category>
+  <title verify="true" type="str" auto="true"><![CDATA[Каркус]]></title>
+  <keywords verify="true" type="list" auto="true">
+    <item type="str"><![CDATA[Персонажи по алфавиту]]></item>
+    <item type="str"><![CDATA[Великаны]]></item>
+    <item type="str"><![CDATA[Мужчины]]></item>
+  </keywords>
+  <text verify="true" type="str" auto="true"><![CDATA[Каркус (англ. Karkus) — вождь (гург) великанов, к которым летом 1995 года по заданию Дамблдора отправились мадам Максим и Рубеус Хагрид. Им удалось склонить Каркуса на свою сторону, но появившиеся почти одновременно с ними Пожиратели смерти (одного из них, Макнейра, Хагрид узнал) подговорили другого великана, Голгомафа, поднять бунт и занять место гурга. Так оно и произошло, и Каркус погиб.]]></text>
+</doc>

@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <source><![CDATA[https://harrypotter.fandom.com/ru/wiki/%D0%94%D1%8D%D0%BD_%D0%A4%D0%BE%D0%B3%D0%BB%D0%B5%D1%80]]></source>
+  <category verify="true" type="str" auto="true">Фантастика</category>
+  <title verify="true" type="str" auto="true"><![CDATA[Дэн Фоглер]]></title>
+  <keywords verify="true" type="list" auto="true">
+    <item type="str"><![CDATA[Персоналии по алфавиту]]></item>
+    <item type="str"><![CDATA[Актёры]]></item>
+    <item type="str"><![CDATA[Актёры. Старшее поколение]]></item>
+    <item type="str"><![CDATA[Актёры и актрисы серии фильмов «Фантастические твари»]]></item>
+  </keywords>
+  <text verify="true" type="str" auto="true"><![CDATA[Дэн Фоглер (англ. Dan Fogler) — американский актер. Лауреат премии Тони. В фильме «Фантастические твари и где они обитают», а также в его сиквеле играет не-мага Якоба Ковальски.]]></text>
+</doc>

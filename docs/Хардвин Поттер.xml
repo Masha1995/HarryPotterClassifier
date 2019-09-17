@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <source><![CDATA[https://harrypotter.fandom.com/ru/wiki/%D0%A5%D0%B0%D1%80%D0%B4%D0%B2%D0%B8%D0%BD_%D0%9F%D0%BE%D1%82%D1%82%D0%B5%D1%80]]></source>
+  <category verify="true" type="str" auto="true">Фантастика</category>
+  <title verify="true" type="str" auto="true"><![CDATA[Хардвин Поттер]]></title>
+  <keywords verify="true" type="list" auto="true">
+    <item type="str"><![CDATA[Волшебники]]></item>
+    <item type="str"><![CDATA[Семья Поттеров]]></item>
+    <item type="str"><![CDATA[Персонажи по алфавиту]]></item>
+    <item type="str"><![CDATA[Персонажи с неясным статусом крови]]></item>
+    <item type="str"><![CDATA[Мужчины]]></item>
+    <item type="str"><![CDATA[Люди]]></item>
+    <item type="str"><![CDATA[Женатые]]></item>
+    <item type="str"><![CDATA[Умершие]]></item>
+    <item type="str"><![CDATA[Британцы]]></item>
+  </keywords>
+  <text verify="true" type="str" auto="true"><![CDATA[Хардвин Поттер (англ. Hardwin Potter) — средневековый волшебник, предок семьи Поттер. Старший из семи сыновей [[Линфреда Стинчкомбского.
+Хардвин женился на красивой молодой ведьме по имени Иоланта Певерелл, которая приехала из Годриковой впадины. Она рассказала мужу о доставшейся ей по наследству мантии-невидимке, обладание которой должно было оставаться в секрете. С тех пор мантия стала передаваться старшему в каждом новом поколении.]]></text>
+</doc>

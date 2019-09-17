@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <source><![CDATA[https://harrypotter.fandom.com/ru/wiki/%D0%9D%D0%B8%D0%BC%D0%B1%D1%83%D1%81-2001]]></source>
+  <category verify="true" type="str" auto="true">Фантастика</category>
+  <title verify="true" type="str" auto="true"><![CDATA[Нимбус-2001]]></title>
+  <keywords verify="true" type="list" auto="true">
+    <item type="str"><![CDATA[Нимбусы]]></item>
+    <item type="str"><![CDATA[Модели мётел]]></item>
+  </keywords>
+  <text verify="true" type="str" auto="true"><![CDATA[Нимбус-2001 (1992) — метла компании «Скоростные мётлы Нимбус». Эти мётлы Люциус Малфой подарил команде Слизерина по квиддичу для того, чтобы они приняли его сына Драко в команду как ловца. Флинт утверждает, что они гораздо лучше модели Нимбус-2000, а в сравнении с Чистомётами — даже рядом не стоят.]]></text>
+</doc>

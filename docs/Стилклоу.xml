@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <source><![CDATA[https://harrypotter.fandom.com/ru/wiki/%D0%A1%D1%82%D0%B8%D0%BB%D0%BA%D0%BB%D0%BE%D1%83]]></source>
+  <category verify="true" type="str" auto="true">Фантастика</category>
+  <title verify="true" type="str" auto="true"><![CDATA[Стилклоу]]></title>
+  <keywords verify="true" type="list" auto="true">
+    <item type="str"><![CDATA[Заклинания по алфавиту]]></item>
+    <item type="str"><![CDATA[Трансфигурационные заклинания]]></item>
+  </keywords>
+  <text verify="true" type="str" auto="true"><![CDATA[Стилклоу (англ. Steelclaw) — заклинание, которое превращает обычные когти в огромные стальные когти. С помощью этих чар даже безобидного кролика можно сделать опасным зверем.]]></text>
+</doc>

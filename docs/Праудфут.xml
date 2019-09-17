@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <source><![CDATA[https://harrypotter.fandom.com/ru/wiki/%D0%9F%D1%80%D0%B0%D1%83%D0%B4%D1%84%D1%83%D1%82]]></source>
+  <category verify="true" type="str" auto="true">Фантастика</category>
+  <title verify="true" type="str" auto="true"><![CDATA[Праудфут]]></title>
+  <keywords verify="true" type="list" auto="true">
+    <item type="str"><![CDATA[Персонажи по алфавиту]]></item>
+    <item type="str"><![CDATA[Мракоборцы]]></item>
+    <item type="str"><![CDATA[Сотрудники Министерства Магии]]></item>
+    <item type="str"><![CDATA[Люди]]></item>
+    <item type="str"><![CDATA[Волшебники]]></item>
+    <item type="str"><![CDATA[Персонажи с неясным статусом крови]]></item>
+    <item type="str"><![CDATA[Мужчины]]></item>
+    <item type="str"><![CDATA[Британцы]]></item>
+    <item type="str"><![CDATA[Сотрудники Отдела магического правопорядка]]></item>
+  </keywords>
+  <text verify="true" type="str" auto="true"><![CDATA[Праудфут (англ. Proudfoot) — мракоборец, который охранял территорию Хогвартса вместе с Нимфадорой Тонкс, Сэвиджем и Джоном Долишем в 1996 году.
+Этимология
+Фамилия позаимствована из «Властелина Колец», где Праудфуты (Большеноги / Шерстолапы) — одно из «добропорядочных семейств» хоббитов, представитель которого появляется на дне рождения Бильбо Бэггинса (Торбинса / Сумникса) с ногами на праздничном столе.]]></text>
+</doc>

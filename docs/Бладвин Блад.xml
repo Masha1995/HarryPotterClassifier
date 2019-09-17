@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <source><![CDATA[https://harrypotter.fandom.com/ru/wiki/%D0%91%D0%BB%D0%B0%D0%B4%D0%B2%D0%B8%D0%BD_%D0%91%D0%BB%D0%B0%D0%B4]]></source>
+  <category verify="true" type="str" auto="true">Фантастика</category>
+  <title verify="true" type="str" auto="true"><![CDATA[Бладвин Блад]]></title>
+  <keywords verify="true" type="list" auto="true">
+    <item type="str"><![CDATA[Вампиры]]></item>
+    <item type="str"><![CDATA[Персонажи по алфавиту]]></item>
+    <item type="str"><![CDATA[Карточки из шоколадных лягушек]]></item>
+    <item type="str"><![CDATA[Мужчины]]></item>
+    <item type="str"><![CDATA[Музыканты]]></item>
+    <item type="str"><![CDATA[Золотые карточки из шоколадных лягушек]]></item>
+    <item type="str"><![CDATA[Рождённые в 1920-е]]></item>
+    <item type="str"><![CDATA[Валлийцы]]></item>
+  </keywords>
+  <text verify="true" type="str" auto="true"><![CDATA[Бладвин Блад (англ. Blodwyn Bludd) — известен как «Вампир из Долин». Прославился звучным баритоном и привычкой петь своим жертвам, прежде чем укусить их.]]></text>
+</doc>

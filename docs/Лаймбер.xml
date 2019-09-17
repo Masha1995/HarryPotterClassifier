@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <source><![CDATA[https://harrypotter.fandom.com/ru/wiki/%D0%9B%D0%B0%D0%B9%D0%BC%D0%B1%D0%B5%D1%80]]></source>
+  <category verify="true" type="str" auto="true">Фантастика</category>
+  <title verify="true" type="str" auto="true"><![CDATA[Лаймбер]]></title>
+  <keywords verify="true" type="list" auto="true">
+    <item type="str"><![CDATA[Персонажи по алфавиту]]></item>
+    <item type="str"><![CDATA[Директора Хогвартса]]></item>
+    <item type="str"><![CDATA[Мужчины]]></item>
+    <item type="str"><![CDATA[Люди]]></item>
+    <item type="str"><![CDATA[Волшебники]]></item>
+    <item type="str"><![CDATA[Портреты]]></item>
+    <item type="str"><![CDATA[Портреты директоров]]></item>
+    <item type="str"><![CDATA[Преподаватели Хогвартса]]></item>
+    <item type="str"><![CDATA[Британцы]]></item>
+  </keywords>
+  <text verify="true" type="str" auto="true"><![CDATA[Лаймбер (англ. Limebert) — бывший профессор и директор Хогвартса. Его портрет висит в кабинете Директора.
+За кулисами
+Портрет основан на картине Карла Брюллова «Портрет археолога Микеланджело Ланчи» (1851).]]></text>
+</doc>

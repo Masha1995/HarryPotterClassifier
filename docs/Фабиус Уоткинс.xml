@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <source><![CDATA[https://harrypotter.fandom.com/ru/wiki/%D0%A4%D0%B0%D0%B1%D0%B8%D1%83%D1%81_%D0%A3%D0%BE%D1%82%D0%BA%D0%B8%D0%BD%D1%81]]></source>
+  <category verify="true" type="str" auto="true">Фантастика</category>
+  <title verify="true" type="str" auto="true"><![CDATA[Фабиус Уоткинс]]></title>
+  <keywords verify="true" type="list" auto="true">
+    <item type="str"><![CDATA[Персонажи по алфавиту]]></item>
+    <item type="str"><![CDATA[Люди]]></item>
+    <item type="str"><![CDATA[Мужчины]]></item>
+    <item type="str"><![CDATA[Волшебники]]></item>
+    <item type="str"><![CDATA[Волшебники месяца]]></item>
+    <item type="str"><![CDATA[Рождённые в 1940-е]]></item>
+    <item type="str"><![CDATA[Игроки в квиддич]]></item>
+    <item type="str"><![CDATA[Охотники в квиддиче]]></item>
+    <item type="str"><![CDATA[Капитаны квиддичных команд]]></item>
+    <item type="str"><![CDATA[Умершие]]></item>
+    <item type="str"><![CDATA[Персонажи с неясным статусом крови]]></item>
+    <item type="str"><![CDATA[Неканонические персонажи]]></item>
+  </keywords>
+  <text verify="true" type="str" auto="true"><![CDATA[Фабиус Уоткинс (англ. Fabius Watkins, 1940-1975) — легендарный капитан и охотник квиддичной команды «Стоунхейвенские сороки». Трагически погиб в возрасте 35 лет из-за столкновения с вертолётом.
+Был волшебником месяца мая 2006 года.]]></text>
+</doc>

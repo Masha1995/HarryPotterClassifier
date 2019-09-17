@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <source><![CDATA[https://harrypotter.fandom.com/ru/wiki/%D0%93%D1%80%D0%B5%D0%B3_%D0%A0%D1%83%D0%B6%D0%B8%D0%BD%D1%81%D0%BA%D0%B8]]></source>
+  <category verify="true" type="str" auto="true">Фантастика</category>
+  <title verify="true" type="str" auto="true"><![CDATA[Грег Ружински]]></title>
+  <keywords verify="true" type="list" auto="true">
+    <item type="str"><![CDATA[Персонажи по алфавиту]]></item>
+    <item type="str"><![CDATA[Люди]]></item>
+    <item type="str"><![CDATA[Мужчины]]></item>
+    <item type="str"><![CDATA[Волшебники]]></item>
+    <item type="str"><![CDATA[Рождённые в XX веке]]></item>
+    <item type="str"><![CDATA[Персонажи с неясным статусом крови]]></item>
+    <item type="str"><![CDATA[Игроки в квиддич]]></item>
+    <item type="str"><![CDATA[Загонщики в квиддиче]]></item>
+    <item type="str"><![CDATA[Американцы]]></item>
+    <item type="str"><![CDATA[Неканонические персонажи]]></item>
+  </keywords>
+  <text verify="true" type="str" auto="true"><![CDATA[Грег «Крэш» Ружински (англ. Greg Ruczinski) — загонщик Сборной США по квиддичу, игравший за команду в 1993-1994 гг. Принимал участие в Чемпионате мира 1994 года.]]></text>
+</doc>

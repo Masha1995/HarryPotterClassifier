@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <source><![CDATA[https://harrypotter.fandom.com/ru/wiki/%D0%93%D0%B5%D1%80%D0%B5%D0%B2%D0%B0%D1%80%D0%B4]]></source>
+  <category verify="true" type="str" auto="true">Фантастика</category>
+  <title verify="true" type="str" auto="true"><![CDATA[Геревард]]></title>
+  <keywords verify="true" type="list" auto="true">
+    <item type="str"><![CDATA[Люди]]></item>
+    <item type="str"><![CDATA[Волшебники]]></item>
+    <item type="str"><![CDATA[Владельцы Бузинной палочки]]></item>
+    <item type="str"><![CDATA[Мужчины]]></item>
+    <item type="str"><![CDATA[Персонажи по алфавиту]]></item>
+    <item type="str"><![CDATA[Неканонические персонажи]]></item>
+    <item type="str"><![CDATA[Персонажи с неясным статусом крови]]></item>
+  </keywords>
+  <text verify="true" type="str" auto="true"><![CDATA[Геревард (англ. Hereward) — сын (а заодно и убийца) Годелота, известный владелец Бузинной палочки. Жил в средневековье. Его отец был достаточно неприятным, хорошо разбирался в тёмной магии и имел Бузинную палочку. Геревард был безумен и заточил отца в подвал его же дома. Там он и умер. Палочка стала принадлежать Гереварду.]]></text>
+</doc>

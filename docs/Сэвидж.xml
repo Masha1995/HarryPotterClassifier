@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <source><![CDATA[https://harrypotter.fandom.com/ru/wiki/%D0%A1%D1%8D%D0%B2%D0%B8%D0%B4%D0%B6]]></source>
+  <category verify="true" type="str" auto="true">Фантастика</category>
+  <title verify="true" type="str" auto="true"><![CDATA[Сэвидж]]></title>
+  <keywords verify="true" type="list" auto="true">
+    <item type="str"><![CDATA[Персонажи по алфавиту]]></item>
+    <item type="str"><![CDATA[Мракоборцы]]></item>
+    <item type="str"><![CDATA[Сотрудники Министерства Магии]]></item>
+    <item type="str"><![CDATA[Люди]]></item>
+    <item type="str"><![CDATA[Мужчины]]></item>
+    <item type="str"><![CDATA[Волшебники]]></item>
+    <item type="str"><![CDATA[Персонажи с неясным статусом крови]]></item>
+    <item type="str"><![CDATA[Британцы]]></item>
+    <item type="str"><![CDATA[Сотрудники Отдела магического правопорядка]]></item>
+  </keywords>
+  <text verify="true" type="str" auto="true"><![CDATA[Сэвидж (англ. Savage) — мракоборец, охранявший территорию Хогвартса вместе с Нимфадорой Тонкс, Праудфутом и Долишем. Нимфадора Тонкс нашла в Хогвартс-экспрессе обездвиженного Гарри Поттера, и на вопрос что она делает на территории Хогвартса, ответила, что охраняет територию школы в составе небольшого отряда мракоборцев. Сэвидж среди этих мракоборцев был упомянут.]]></text>
+</doc>

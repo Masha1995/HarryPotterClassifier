@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <source><![CDATA[https://harrypotter.fandom.com/ru/wiki/%D0%AD%D0%BB%D0%BE%D0%B8%D0%B7_%D0%9C%D0%B8%D0%BD%D1%82%D0%B0%D0%BC%D0%B1%D0%BB]]></source>
+  <category verify="true" type="str" auto="true">Фантастика</category>
+  <title verify="true" type="str" auto="true"><![CDATA[Элоиз Минтамбл]]></title>
+  <keywords verify="true" type="list" auto="true">
+    <item type="str"><![CDATA[Персонажи по алфавиту]]></item>
+    <item type="str"><![CDATA[Люди]]></item>
+    <item type="str"><![CDATA[Женщины]]></item>
+    <item type="str"><![CDATA[Волшебники]]></item>
+    <item type="str"><![CDATA[Рождённые в 19 веке]]></item>
+    <item type="str"><![CDATA[Замужние]]></item>
+    <item type="str"><![CDATA[Перевод эксклюзивной информации с Pottermore]]></item>
+    <item type="str"><![CDATA[Сотрудники Министерства Магии]]></item>
+    <item type="str"><![CDATA[Персонажи с неясным статусом крови]]></item>
+    <item type="str"><![CDATA[Неканонические персонажи]]></item>
+    <item type="str"><![CDATA[Умершие]]></item>
+  </keywords>
+  <text verify="true" type="str" auto="true"><![CDATA[Мадам Элоиз Минтамбл (англ. Eloise Mintumble) — невыразимец. Работала в Отделе тайн, занималась изучением магии времени. В 1899 году она участвовала в эксперименте с Маховиком времени. Непреднамеренно она оказалась на пять дней в 1402 году. По возвращении в 1899 год мадам Минтамбл состарилась на пять веков, её сразу же отправили в Больницу магических болезней и недугов, где женщина вскоре скончалась. Известно, что жизнь людей, с которыми Элоиз контактировала в прошлом сильно изменилась: по крайней мере двадцать пять их потомков исчезли из настоящего, будто совсем не рождались. К тому же оказалось повреждено течение настоящего времени. Министерству магии стоило больших трудов замять этот скандал.]]></text>
+</doc>

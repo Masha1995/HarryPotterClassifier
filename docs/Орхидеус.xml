@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <source><![CDATA[https://harrypotter.fandom.com/ru/wiki/%D0%9E%D1%80%D1%85%D0%B8%D0%B4%D0%B5%D1%83%D1%81]]></source>
+  <category verify="true" type="str" auto="true">Фантастика</category>
+  <title verify="true" type="str" auto="true"><![CDATA[Орхидеус]]></title>
+  <keywords verify="true" type="list" auto="true">
+    <item type="str"><![CDATA[Заклинания по алфавиту]]></item>
+    <item type="str"><![CDATA[Бытовые заклинания]]></item>
+  </keywords>
+  <text verify="true" type="str" auto="true"><![CDATA[Орхидеус (англ. Orchideous) — заклинание, вызывающее букет орхидей из палочки. Этим заклинанием мистер Олливандер проверял исправность палочки Флёр Делакур, а наколдованные цветы он преподнес прекрасной шармбатонке.
+Возможно, что именно с помощью этого заклинания Гермиона Грейнджер наколдовала венок на могилу Лили и Джеймса Поттеров.]]></text>
+</doc>

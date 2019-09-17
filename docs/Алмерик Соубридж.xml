@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <source><![CDATA[https://harrypotter.fandom.com/ru/wiki/%D0%90%D0%BB%D0%BC%D0%B5%D1%80%D0%B8%D0%BA_%D0%A1%D0%BE%D1%83%D0%B1%D1%80%D0%B8%D0%B4%D0%B6]]></source>
+  <category verify="true" type="str" auto="true">Фантастика</category>
+  <title verify="true" type="str" auto="true"><![CDATA[Алмерик Соубридж]]></title>
+  <keywords verify="true" type="list" auto="true">
+    <item type="str"><![CDATA[Персонажи по алфавиту]]></item>
+    <item type="str"><![CDATA[Люди]]></item>
+    <item type="str"><![CDATA[Волшебники]]></item>
+    <item type="str"><![CDATA[Мужчины]]></item>
+    <item type="str"><![CDATA[Рождённые в 17 веке]]></item>
+    <item type="str"><![CDATA[Карточки из шоколадных лягушек]]></item>
+    <item type="str"><![CDATA[Бронзовые карточки из шоколадных лягушек]]></item>
+    <item type="str"><![CDATA[Умершие]]></item>
+    <item type="str"><![CDATA[Персонажи с неясным статусом крови]]></item>
+    <item type="str"><![CDATA[Исторические персонажи]]></item>
+  </keywords>
+  <text verify="true" type="str" auto="true"><![CDATA[Алмерик Соубридж (англ. Almerick Sawbridge; 1602-1699) — волшебник, прославившийся как убийца огромного речного тролля (весом более тонны), который терроризировал людей, живших на берегах реки Уай.
+За свой подвиг был увековечен на карточках от шоколадных лягушек.]]></text>
+</doc>

@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <source><![CDATA[https://harrypotter.fandom.com/ru/wiki/%D0%A1%D0%BD%D0%B0%D1%84%D1%84%D0%BB%D0%B8%D1%84%D0%BE%D1%80%D1%81]]></source>
+  <category verify="true" type="str" auto="true">Фантастика</category>
+  <title verify="true" type="str" auto="true"><![CDATA[Снаффлифорс]]></title>
+  <keywords verify="true" type="list" auto="true">
+    <item type="str"><![CDATA[Заклинания по алфавиту]]></item>
+    <item type="str"><![CDATA[Трансфигурационные заклинания]]></item>
+  </keywords>
+  <text verify="true" type="str" auto="true"><![CDATA[Снаффлифорс (англ. Snufflifors) — заклинание, превращающее объекты в мышей. В игре «Гарри Поттер и узник Азкабана» с его помощью мышами становились Летающие книги. Заклинание Снаффлифорс покупается у Фреда и Джорджа Уизли. Это единственное дополнительное заклинание.
+Заклинание Снаффлифорс подробно описывается в книге «Заклинание Снаффлифорс».
+Заклинание изучается на 3 году обучения в Хогвартсе и есть в «Стандартной книге заклинаний. 3 курс».]]></text>
+</doc>

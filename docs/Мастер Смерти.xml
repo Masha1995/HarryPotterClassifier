@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <source><![CDATA[https://harrypotter.fandom.com/ru/wiki/%D0%9C%D0%B0%D1%81%D1%82%D0%B5%D1%80_%D0%A1%D0%BC%D0%B5%D1%80%D1%82%D0%B8]]></source>
+  <category verify="true" type="str" auto="true">Фантастика</category>
+  <title verify="true" type="str" auto="true"><![CDATA[Мастер Смерти]]></title>
+  <keywords verify="true" type="list" auto="true">
+    <item type="str"><![CDATA[Звания и Титулы]]></item>
+    <item type="str"><![CDATA[Дары Смерти]]></item>
+  </keywords>
+  <text verify="true" type="str" auto="true"><![CDATA[Мастер Смерти (также известен как Победитель смерти) — человек, который собрал все три Дара Смерти: Бузинную палочку, Мантию-невидимку и Воскрешающий камень. Хотя принято считать, что хозяин Даров обладает бессмертием, но истинный Мастер Смерти действительно принимает тот факт, что смерть неизбежна, и что есть более худшие чем смерть вещи.
+Известные Мастера смерти
+Игнотус Певерелл
+Альбус Дамблдор
+Гарри Поттер]]></text>
+</doc>

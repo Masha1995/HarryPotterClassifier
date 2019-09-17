@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <source><![CDATA[https://harrypotter.fandom.com/ru/wiki/%D0%A1%D0%B2%D1%83%D0%BF%D1%81%D1%82%D0%B8%D0%BA%D1%81]]></source>
+  <category verify="true" type="str" auto="true">Фантастика</category>
+  <title verify="true" type="str" auto="true"><![CDATA[Свупстикс]]></title>
+  <keywords verify="true" type="list" auto="true">
+    <item type="str"><![CDATA[Персонажи по алфавиту]]></item>
+    <item type="str"><![CDATA[Персонажи с неясным статусом крови]]></item>
+    <item type="str"><![CDATA[Портреты]]></item>
+    <item type="str"><![CDATA[Люди]]></item>
+    <item type="str"><![CDATA[Волшебники]]></item>
+    <item type="str"><![CDATA[Мужчины]]></item>
+    <item type="str"><![CDATA[Зельевары]]></item>
+    <item type="str"><![CDATA[Умершие]]></item>
+    <item type="str"><![CDATA[Преподаватели Хогвартса]]></item>
+    <item type="str"><![CDATA[Неканонические персонажи]]></item>
+  </keywords>
+  <text verify="true" type="str" auto="true"><![CDATA[Профессор Свупстикс (англ. Swoopstikes) — волшебник, бывший преподаватель Зельеварения и Мастер зелий в Хогвартсе. Также он был энтомологом с обширными знаниями магических насекомых. Кроме того, Свупстикс был фанатом квиддичной команды Татсхилл Торнадос.
+После его смерти портрет профессора был помещён в замке Хогвартс: на картине он изображён на фоне своей коллекции насекомых, в одной руке у него лупа, в другой — веретенница.
+Этимология
+Слово Swoop означает «быстро двигаться вниз по воздуху», здесь видна отсылка к полёту насекомого.]]></text>
+</doc>

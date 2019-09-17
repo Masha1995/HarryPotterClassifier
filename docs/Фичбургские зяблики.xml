@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <source><![CDATA[https://harrypotter.fandom.com/ru/wiki/%D0%A4%D0%B8%D1%87%D0%B1%D1%83%D1%80%D0%B3%D1%81%D0%BA%D0%B8%D0%B5_%D0%B7%D1%8F%D0%B1%D0%BB%D0%B8%D0%BA%D0%B8]]></source>
+  <category verify="true" type="str" auto="true">Фантастика</category>
+  <title verify="true" type="str" auto="true"><![CDATA[Фичбургские зяблики]]></title>
+  <keywords verify="true" type="list" auto="true">
+    <item type="str"><![CDATA[Квиддичные команды]]></item>
+    <item type="str"><![CDATA[Лига США]]></item>
+  </keywords>
+  <text verify="true" type="str" auto="true"><![CDATA[«Фичбургские зяблики» (англ. Fitchburg Finches; вариант перевода: «Зяблики Запада») — квиддичная команда из Массачусcетса, США. Они семикратные чемпионы Квиддичной лиги США. Ловец команды Максим Бранкович III был капитаном сборной США на двух последних чемпионатах мира.
+В газете Нью-Йоркский Призрак, в номере от 6 декабря 1926 года сообщалось, что команда «Фичбургские зяблики» заработала высшие баллы в Квиддич лиге США.]]></text>
+</doc>

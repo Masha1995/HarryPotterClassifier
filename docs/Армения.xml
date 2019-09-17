@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <source><![CDATA[https://harrypotter.fandom.com/ru/wiki/%D0%90%D1%80%D0%BC%D0%B5%D0%BD%D0%B8%D1%8F]]></source>
+  <category verify="true" type="str" auto="true">Фантастика</category>
+  <title verify="true" type="str" auto="true"><![CDATA[Армения]]></title>
+  <keywords verify="true" type="list" auto="true">
+    <item type="str"><![CDATA[Страны]]></item>
+    <item type="str"><![CDATA[Локации по алфавиту]]></item>
+    <item type="str"><![CDATA[Азия]]></item>
+    <item type="str"><![CDATA[Европа]]></item>
+  </keywords>
+  <text verify="true" type="str" auto="true"><![CDATA[Армения (англ. Armenia) — государство, расположенное между Западной Азией и Восточной Европой. Граничит с Азербайджаном, Ираном, Турцией, Грузией. Столица — город Ереван.
+В мире Гарри Поттера
+Златопуст Локонс присвоил себе подвиг армянского колдуна, а затем стёр ему память.
+В Армении есть Армянская национальная юношеская сборная по квиддичу.]]></text>
+</doc>

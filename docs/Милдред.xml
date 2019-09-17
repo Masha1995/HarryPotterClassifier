@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <source><![CDATA[https://harrypotter.fandom.com/ru/wiki/%D0%9C%D0%B8%D0%BB%D0%B4%D1%80%D0%B5%D0%B4]]></source>
+  <category verify="true" type="str" auto="true">Фантастика</category>
+  <title verify="true" type="str" auto="true"><![CDATA[Милдред]]></title>
+  <keywords verify="true" type="list" auto="true">
+    <item type="str"><![CDATA[Персонажи по алфавиту]]></item>
+    <item type="str"><![CDATA[Персонажи с неясным статусом крови]]></item>
+    <item type="str"><![CDATA[Люди]]></item>
+    <item type="str"><![CDATA[Женщины]]></item>
+    <item type="str"><![CDATA[Американцы]]></item>
+    <item type="str"><![CDATA[Рождённые в XX веке]]></item>
+    <item type="str"><![CDATA[Маглы]]></item>
+    <item type="str"><![CDATA[Жители Нью-Йорка]]></item>
+  </keywords>
+  <text verify="true" type="str" auto="true"><![CDATA[Милдред (англ. Mildred) — американка не-маг, жившая в XX веке в Нью-Йорке.. Была помолвлена с Якобом Ковальски, однако в декабре 1926 года она бросила его после того, как ему отказали дать ссуду в банке.
+За кулисами
+Все сцены с участием Милдред из фильма были вырезаны.]]></text>
+</doc>

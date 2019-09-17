@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <source><![CDATA[https://harrypotter.fandom.com/ru/wiki/%D0%9C%D0%B0%D0%BC%D0%B0%D1%88%D0%B0_%D0%A5%D0%B0%D0%B1%D0%B1%D0%B0%D1%80%D0%B4]]></source>
+  <category verify="true" type="str" auto="true">Фантастика</category>
+  <title verify="true" type="str" auto="true"><![CDATA[Мамаша Хаббард]]></title>
+  <keywords verify="true" type="list" auto="true">
+    <item type="str"><![CDATA[Персонажи по алфавиту]]></item>
+    <item type="str"><![CDATA[Женщины]]></item>
+    <item type="str"><![CDATA[Карточки из шоколадных лягушек]]></item>
+    <item type="str"><![CDATA[Ведьмы]]></item>
+    <item type="str"><![CDATA[Золотые карточки из шоколадных лягушек]]></item>
+    <item type="str"><![CDATA[Волшебники]]></item>
+    <item type="str"><![CDATA[Дата смерти не известна]]></item>
+    <item type="str"><![CDATA[Исторические персонажи]]></item>
+  </keywords>
+  <text verify="true" type="str" auto="true"><![CDATA[Мамаша Хаббард (англ. Old Mother Hubbard) — ведьма, жившая в Средневековье. Она заманивала заблудившихся животных к себе домой и морила их голодом до смерти.
+За кулисами
+Скорее всего образ был придуман по мотивам детского стишка, где фигурирует некая мамаша Хаббард.]]></text>
+</doc>

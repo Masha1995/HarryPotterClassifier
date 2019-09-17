@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <source><![CDATA[https://harrypotter.fandom.com/ru/wiki/%D0%9C%D0%B0%D1%81%D1%82%D0%B5%D1%80_%D0%B7%D0%B5%D0%BB%D0%B8%D0%B9]]></source>
+  <category verify="true" type="str" auto="true">Фантастика</category>
+  <title verify="true" type="str" auto="true"><![CDATA[Мастер зелий]]></title>
+  <keywords verify="true" type="list" auto="true">
+    <item type="str"><![CDATA[Требует доработки]]></item>
+    <item type="str"><![CDATA[Звания и Титулы]]></item>
+    <item type="str"><![CDATA[Административные единицы Хогвартса]]></item>
+    <item type="str"><![CDATA[Зельеварение]]></item>
+  </keywords>
+  <text verify="true" type="str" auto="true"><![CDATA[Мастер зелий или Мастер зельеварения (англ. Potions Master) — звание профессора Зельеварения в Школе Чародейства и Волшебства Хогвартс.
+Мастерами зелий в неизвестные периоды был Бартоломью и Свупстикс. Виндиктус Виридиан преподавал зельеварение в Хогвартсе в конце XVII века, впоследствии стал директором школы. Гораций Слизнорт занимал этот пост по меньшей мере с 1920 по 1981 годы, пока Северус Снегг не сменил его на этой должности, тем не менее, Слизнорт вернулся в 1996 году, когда Снегг занял пост профессора Защиты от Тёмных искусств.]]></text>
+</doc>

@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <source><![CDATA[https://harrypotter.fandom.com/ru/wiki/%D0%AD%D0%B3%D0%B1%D0%B5%D1%80%D1%82_%D0%AD%D0%B3%D0%BE%D0%B8%D1%81%D1%82]]></source>
+  <category verify="true" type="str" auto="true">Фантастика</category>
+  <title verify="true" type="str" auto="true"><![CDATA[Эгберт Эгоист]]></title>
+  <keywords verify="true" type="list" auto="true">
+    <item type="str"><![CDATA[Персонажи по алфавиту]]></item>
+    <item type="str"><![CDATA[Люди]]></item>
+    <item type="str"><![CDATA[Мужчины]]></item>
+    <item type="str"><![CDATA[Волшебники]]></item>
+    <item type="str"><![CDATA[Тёмные маги]]></item>
+    <item type="str"><![CDATA[Владельцы Бузинной палочки]]></item>
+    <item type="str"><![CDATA[Персонажи с неясным статусом крови]]></item>
+    <item type="str"><![CDATA[Исторические персонажи]]></item>
+  </keywords>
+  <text verify="true" type="str" auto="true"><![CDATA[Эгберт Эгоист (англ. Egbert the Egregious) — волшебник, который завладел Бузинной палочкой, убив прежнего владельца Эмерика Отъявленного. Судьба Эгберта неизвестна, хотя средняя продолжительность жизни средневековых дуэлянтов невелика. До того, как Министерство магии ввело ограничения на применение Темных искусств, поединки, как правило, заканчивались смертью, по меньшей мере, одного из противников. Кто был следующим владельцем палочки — неизвестно.]]></text>
+</doc>

@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <source><![CDATA[https://harrypotter.fandom.com/ru/wiki/%D0%93%D0%BD%D0%B0%D1%80%D0%BB%D0%B0%D0%BA]]></source>
+  <category verify="true" type="str" auto="true">Фантастика</category>
+  <title verify="true" type="str" auto="true"><![CDATA[Гнарлак]]></title>
+  <keywords verify="true" type="list" auto="true">
+    <item type="str"><![CDATA[Персонажи по алфавиту]]></item>
+    <item type="str"><![CDATA[Гоблины]]></item>
+    <item type="str"><![CDATA[Мужчины]]></item>
+    <item type="str"><![CDATA[Американцы]]></item>
+    <item type="str"><![CDATA[Жители Нью-Йорка]]></item>
+    <item type="str"><![CDATA[Неканонические персонажи]]></item>
+  </keywords>
+  <text verify="true" type="str" auto="true"><![CDATA[Гнарлак (англ. Gnarlak) — гоблин-бандит, содержащий спикизи «Слепая свинья» в 20-е годы прошлого века в Нью-Йорке. Как и все гоблины, Гнарлак был очень хитрым. Когда его бар посетили разыскиваемые в тот момент Ньют Саламандер и Порпентина Голдштейн, он, несмотря на обмен информации на одно из существ Ньюта, всё же вызывает мракоборцев МАКУСА.]]></text>
+</doc>

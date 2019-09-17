@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <source><![CDATA[https://harrypotter.fandom.com/ru/wiki/%D0%9C%D0%B8%D0%BB%D0%BB%D0%B8%D1%81%D0%B5%D0%BD%D1%82%D0%B0_%D0%91%D0%B0%D0%B3%D0%BD%D0%BE%D0%BB%D0%B4]]></source>
+  <category verify="true" type="str" auto="true">Фантастика</category>
+  <title verify="true" type="str" auto="true"><![CDATA[Миллисента Багнолд]]></title>
+  <keywords verify="true" type="list" auto="true">
+    <item type="str"><![CDATA[Персонажи по алфавиту]]></item>
+    <item type="str"><![CDATA[Люди]]></item>
+    <item type="str"><![CDATA[Сотрудники Министерства Магии]]></item>
+    <item type="str"><![CDATA[Женщины]]></item>
+    <item type="str"><![CDATA[Волшебники]]></item>
+    <item type="str"><![CDATA[Когтевранцы]]></item>
+    <item type="str"><![CDATA[Студенты Хогвартса]]></item>
+    <item type="str"><![CDATA[Министры магии Великобритании]]></item>
+  </keywords>
+  <text verify="true" type="str" auto="true"><![CDATA[Миллисента Багнолд (англ. Millicent Bagnold) — 31-й министр магии с 1980 по 1990 год.
+Была предшественницей Корнелиуса Фаджа на должности министра магии. Одна из немногих женщин-министров магии.
+Училась в Хогвартсе на факультете Когтевран.]]></text>
+</doc>

@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <source><![CDATA[https://harrypotter.fandom.com/ru/wiki/%D0%A4%D0%B8%D0%BD%D1%82_%D0%92%D1%80%D0%BE%D0%BD%D1%81%D0%BA%D0%BE%D0%B3%D0%BE]]></source>
+  <category verify="true" type="str" auto="true">Фантастика</category>
+  <title verify="true" type="str" auto="true"><![CDATA[Финт Вронского]]></title>
+  <keywords verify="true" type="list" auto="true">
+    <item type="str"><![CDATA[Требует доработки]]></item>
+    <item type="str"><![CDATA[Квиддичные приёмы]]></item>
+  </keywords>
+  <text verify="true" type="str" auto="true"><![CDATA[Финт Вронского — квиддичный приём, названный в честь всемирно известного польского ловца Йозефа Вронского. Согласно данной тактике, ловец резко летит вниз, делая вид, что увидел снитч у самой земли, и выходит из пике прямо перед ударом о поле. Таким образом он сбивает с толку ловца другой команды и может устранить противника.]]></text>
+</doc>

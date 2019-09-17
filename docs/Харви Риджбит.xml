@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <source><![CDATA[https://harrypotter.fandom.com/ru/wiki/%D0%A5%D0%B0%D1%80%D0%B2%D0%B8_%D0%A0%D0%B8%D0%B4%D0%B6%D0%B1%D0%B8%D1%82]]></source>
+  <category verify="true" type="str" auto="true">Фантастика</category>
+  <title verify="true" type="str" auto="true"><![CDATA[Харви Риджбит]]></title>
+  <keywords verify="true" type="list" auto="true">
+    <item type="str"><![CDATA[Люди]]></item>
+    <item type="str"><![CDATA[Персонажи по алфавиту]]></item>
+    <item type="str"><![CDATA[Волшебники]]></item>
+    <item type="str"><![CDATA[Рождённые в 19 веке]]></item>
+    <item type="str"><![CDATA[Волшебники месяца]]></item>
+    <item type="str"><![CDATA[Магозоологи]]></item>
+  </keywords>
+  <text verify="true" type="str" auto="true"><![CDATA[Харви Риджбит (англ. Harvey Ridgebit; 1881-1973) — первый драконолог, поймавший перуанского змеезуба. Он также создал крупнейший драконий заповедник в Румынии, где работает Чарли Уизли и куда была отправлена дракониха по имени Норберта.]]></text>
+</doc>

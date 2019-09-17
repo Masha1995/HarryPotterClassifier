@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <source><![CDATA[https://harrypotter.fandom.com/ru/wiki/%D0%93%D0%B5%D0%BD%D1%80%D0%B8_%D0%9F%D0%BE%D1%82%D1%82%D0%B5%D1%80]]></source>
+  <category verify="true" type="str" auto="true">Фантастика</category>
+  <title verify="true" type="str" auto="true"><![CDATA[Генри Поттер]]></title>
+  <keywords verify="true" type="list" auto="true">
+    <item type="str"><![CDATA[Персонажи по алфавиту]]></item>
+    <item type="str"><![CDATA[Люди]]></item>
+    <item type="str"><![CDATA[Мужчины]]></item>
+    <item type="str"><![CDATA[Волшебники]]></item>
+    <item type="str"><![CDATA[Женатые]]></item>
+    <item type="str"><![CDATA[Семья Поттеров]]></item>
+    <item type="str"><![CDATA[Чистокровные]]></item>
+    <item type="str"><![CDATA[Британцы]]></item>
+    <item type="str"><![CDATA[Умершие]]></item>
+    <item type="str"><![CDATA[Рождённые в 19 веке]]></item>
+    <item type="str"><![CDATA[Члены Визенгамота]]></item>
+  </keywords>
+  <text verify="true" type="str" auto="true"><![CDATA[Генри Поттер (англ. Henry Potter; в семейном кругу больше известен как Гарри) — волшебник, представитель семьи Поттер. Прямой потомок Хардвина и Иоланты Поттеров, прадед Гарри Поттера.
+Генри вызвал незначительный переполох, когда публично осудил министра магии того времени Арчера Эвермонда, который запрещал магическому сообществу помогать маглам бороться в Первой Мировой Войне. Его откровенность от имени магловского сообщества была также сильным содействующим фактором в исключении семьи из списка «Священных двадцати восьми».
+Генри назвал своего сына Флимонт, тем самым исполнив последнее желание своей матери, но значительно осложнив жизнь сыну.]]></text>
+</doc>

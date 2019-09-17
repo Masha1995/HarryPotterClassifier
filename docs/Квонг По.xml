@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <source><![CDATA[https://harrypotter.fandom.com/ru/wiki/%D0%9A%D0%B2%D0%BE%D0%BD%D0%B3_%D0%9F%D0%BE]]></source>
+  <category verify="true" type="str" auto="true">Фантастика</category>
+  <title verify="true" type="str" auto="true"><![CDATA[Квонг По]]></title>
+  <keywords verify="true" type="list" auto="true">
+    <item type="str"><![CDATA[Персонажи по алфавиту]]></item>
+    <item type="str"><![CDATA[Люди]]></item>
+    <item type="str"><![CDATA[Мужчины]]></item>
+    <item type="str"><![CDATA[Волшебники]]></item>
+    <item type="str"><![CDATA[Рождённые в 15 веке]]></item>
+    <item type="str"><![CDATA[Карточки из шоколадных лягушек]]></item>
+    <item type="str"><![CDATA[Бронзовые карточки из шоколадных лягушек]]></item>
+    <item type="str"><![CDATA[Магозоологи]]></item>
+    <item type="str"><![CDATA[Умершие]]></item>
+    <item type="str"><![CDATA[Персонажи с неясным статусом крови]]></item>
+    <item type="str"><![CDATA[Китайцы]]></item>
+    <item type="str"><![CDATA[Исторические персонажи]]></item>
+    <item type="str"><![CDATA[Долгожители]]></item>
+  </keywords>
+  <text verify="true" type="str" auto="true"><![CDATA[Квонг По (англ. Quong Po, 1443–1539) — китаец, специалист по магическим существам, драконолог. Специализировался на изучении Китайских огненных шаров, открыл уникальные магические свойства их яичного порошка.
+За кулисами
+В норвежской версии Гарри Поттер и тайная комната (игра) он идентифицируется как Чонг По.]]></text>
+</doc>

@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <source><![CDATA[https://harrypotter.fandom.com/ru/wiki/%D0%A1%D0%B0%D0%BF%D1%84%D0%B8%D1%80]]></source>
+  <category verify="true" type="str" auto="true">Фантастика</category>
+  <title verify="true" type="str" auto="true"><![CDATA[Сапфир]]></title>
+  <keywords verify="true" type="list" auto="true">
+    <item type="str"><![CDATA[Драгоценные камни]]></item>
+  </keywords>
+  <text verify="true" type="str" auto="true"><![CDATA[Сапфир (англ. Sapphire) — драгоценный камень синего цвета, широко используется в ювелирном деле.
+В школе Хогвартс сапфирами заполняется колба факультета Когтевран в Песочных часах факультетов при добавлении очков.]]></text>
+</doc>

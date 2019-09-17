@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <source><![CDATA[https://harrypotter.fandom.com/ru/wiki/%D0%A6%D0%B8%D0%BA%D0%BB%D0%BE%D0%BF]]></source>
+  <category verify="true" type="str" auto="true">Фантастика</category>
+  <title verify="true" type="str" auto="true"><![CDATA[Циклоп]]></title>
+  <keywords verify="true" type="list" auto="true">
+    <item type="str"><![CDATA[Великаны]]></item>
+    <item type="str"><![CDATA[Карточки из шоколадных лягушек]]></item>
+    <item type="str"><![CDATA[Золотые карточки из шоколадных лягушек]]></item>
+    <item type="str"><![CDATA[Мужчины]]></item>
+    <item type="str"><![CDATA[Персонажи по алфавиту]]></item>
+    <item type="str"><![CDATA[Умершие]]></item>
+    <item type="str"><![CDATA[Рождённые до нашей эры]]></item>
+    <item type="str"><![CDATA[Греки]]></item>
+    <item type="str"><![CDATA[Умершие до нашей эры]]></item>
+  </keywords>
+  <text verify="true" type="str" auto="true"><![CDATA[Циклоп (англ. Cyclops) — одноглазый великан. Жил в пещере у подножья горы Этна. Убит греческим героем Одиссеем. Упоминается у маглов, в частности, в «Одиссее» Гомера, где его зовут Полифем. Указывается на карточке в игре Гарри Поттер и узник Азкабана.
+За кулисами
+Персонаж основан на Полифеме, древнегреческом жестоком людоеде.]]></text>
+</doc>

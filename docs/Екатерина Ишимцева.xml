@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <source><![CDATA[https://harrypotter.fandom.com/ru/wiki/%D0%95%D0%BA%D0%B0%D1%82%D0%B5%D1%80%D0%B8%D0%BD%D0%B0_%D0%98%D1%88%D0%B8%D0%BC%D1%86%D0%B5%D0%B2%D0%B0]]></source>
+  <category verify="true" type="str" auto="true">Фантастика</category>
+  <title verify="true" type="str" auto="true"><![CDATA[Екатерина Ишимцева]]></title>
+  <keywords verify="true" type="list" auto="true">
+    <item type="str"><![CDATA[Персоналии по алфавиту]]></item>
+    <item type="str"><![CDATA[Актёры дубляжа]]></item>
+  </keywords>
+  <text verify="true" type="str" auto="true"><![CDATA[Ишимцева Екатерина Владимировна (род. 13 ноября 1977) — российская актриса театра и кино. В фильме «Фантастические твари и где они обитают» дублировала Саманту Мортон в роли Мэри Лу Бэрбоун.]]></text>
+</doc>

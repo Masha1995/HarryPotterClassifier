@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <source><![CDATA[https://harrypotter.fandom.com/ru/wiki/%D0%94%D1%83%D1%80%D0%BE]]></source>
+  <category verify="true" type="str" auto="true">Фантастика</category>
+  <title verify="true" type="str" auto="true"><![CDATA[Дуро]]></title>
+  <keywords verify="true" type="list" auto="true">
+    <item type="str"><![CDATA[Заклинания по алфавиту]]></item>
+    <item type="str"><![CDATA[Защитные заклинания]]></item>
+    <item type="str"><![CDATA[Трансфигурационные заклинания]]></item>
+    <item type="str"><![CDATA[Бытовые заклинания]]></item>
+  </keywords>
+  <text verify="true" type="str" auto="true"><![CDATA[Дуро — заклинание, превращающее объект в камень.
+Применения
+Гермиона Грейнджер во время битвы за Хогвартс обратила гобелен в камень, в который врезались трое Пожирателей Смерти.
+Этимология
+Слово «duro» в переводе с лат. означает «жёсткий», что очень чётко и точно характеризует камень.]]></text>
+</doc>

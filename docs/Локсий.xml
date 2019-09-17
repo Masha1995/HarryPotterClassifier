@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <source><![CDATA[https://harrypotter.fandom.com/ru/wiki/%D0%9B%D0%BE%D0%BA%D1%81%D0%B8%D0%B9]]></source>
+  <category verify="true" type="str" auto="true">Фантастика</category>
+  <title verify="true" type="str" auto="true"><![CDATA[Локсий]]></title>
+  <keywords verify="true" type="list" auto="true">
+    <item type="str"><![CDATA[Персонажи по алфавиту]]></item>
+    <item type="str"><![CDATA[Люди]]></item>
+    <item type="str"><![CDATA[Мужчины]]></item>
+    <item type="str"><![CDATA[Волшебники]]></item>
+    <item type="str"><![CDATA[Тёмные маги]]></item>
+    <item type="str"><![CDATA[Владельцы Бузинной палочки]]></item>
+    <item type="str"><![CDATA[Персонажи с неясным статусом крови]]></item>
+    <item type="str"><![CDATA[Умершие]]></item>
+  </keywords>
+  <text verify="true" type="str" auto="true"><![CDATA[Локсий (англ. Loxias) — тёмный волшебник, хозяин Бузинной палочки и убийца её предыдущего владельца Варнавы Деверилла. Жил в XVIII веке. Локсий называл палочку Смертоносной и использовал её, чтобы убивать всех, кто ему не угодил. Точно не известно, кто победил его. Альбус Дамблдор утверждал, что слишком многие, включая собственную мать, хвастались тем, что одолели его. Мистер Лавгуд же считал убийцей либо Ливия, либо Аркуса, так как кто-то из них стал следующим владельцем Бузинной палочки.]]></text>
+</doc>

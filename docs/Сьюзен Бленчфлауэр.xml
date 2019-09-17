@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <source><![CDATA[https://harrypotter.fandom.com/ru/wiki/%D0%A1%D1%8C%D1%8E%D0%B7%D0%B5%D0%BD_%D0%91%D0%BB%D0%B5%D0%BD%D1%87%D1%84%D0%BB%D0%B0%D1%83%D1%8D%D1%80]]></source>
+  <category verify="true" type="str" auto="true">Фантастика</category>
+  <title verify="true" type="str" auto="true"><![CDATA[Сьюзен Бленчфлауэр]]></title>
+  <keywords verify="true" type="list" auto="true">
+    <item type="str"><![CDATA[Персонажи по алфавиту]]></item>
+    <item type="str"><![CDATA[Персонажи с неясным статусом крови]]></item>
+    <item type="str"><![CDATA[Неканонические персонажи]]></item>
+    <item type="str"><![CDATA[Люди]]></item>
+    <item type="str"><![CDATA[Волшебники]]></item>
+    <item type="str"><![CDATA[Женщины]]></item>
+    <item type="str"><![CDATA[Рождённые в XX веке]]></item>
+    <item type="str"><![CDATA[Игроки в квиддич]]></item>
+    <item type="str"><![CDATA[Вратари в квиддиче]]></item>
+    <item type="str"><![CDATA[Американцы]]></item>
+    <item type="str"><![CDATA[Перевод эксклюзивной информации с Pottermore]]></item>
+  </keywords>
+  <text verify="true" type="str" auto="true"><![CDATA[Сьюзен Бленчфлауэр (англ. Susan Blancheflower) — волшебница, вратарь Сборной США по квиддичу. Приняла участие в Чемпионате мира 2014 года.]]></text>
+</doc>

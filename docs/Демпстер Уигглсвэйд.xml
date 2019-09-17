@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <source><![CDATA[https://harrypotter.fandom.com/ru/wiki/%D0%94%D0%B5%D0%BC%D0%BF%D1%81%D1%82%D0%B5%D1%80_%D0%A3%D0%B8%D0%B3%D0%B3%D0%BB%D1%81%D0%B2%D1%8D%D0%B9%D0%B4]]></source>
+  <category verify="true" type="str" auto="true">Фантастика</category>
+  <title verify="true" type="str" auto="true"><![CDATA[Демпстер Уигглсвэйд]]></title>
+  <keywords verify="true" type="list" auto="true">
+    <item type="str"><![CDATA[Мужчины]]></item>
+    <item type="str"><![CDATA[Волшебники]]></item>
+    <item type="str"><![CDATA[Сотрудники Министерства Магии]]></item>
+    <item type="str"><![CDATA[Журналисты]]></item>
+    <item type="str"><![CDATA[Британцы]]></item>
+    <item type="str"><![CDATA[Персонал Ежедневного пророка]]></item>
+    <item type="str"><![CDATA[Персонажи по алфавиту]]></item>
+  </keywords>
+  <text verify="true" type="str" auto="true"><![CDATA[Демпстер Уигглсвэйд (англ. Dempster Wiggleswade) — волшебник, работник Отдела магического правопорядка. Он также писал статьи для «Ежедневного Пророка».
+Появление
+Гарри Поттер и Принц-полукровка (фильм) (Упоминается в Ежедневном Пророке)]]></text>
+</doc>

@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <source><![CDATA[https://harrypotter.fandom.com/ru/wiki/%D0%A4%D0%B8%D1%84%D0%B8_%D0%9B%D0%B0%D0%A4%D0%BE%D0%BB%D0%BB]]></source>
+  <category verify="true" type="str" auto="true">Фантастика</category>
+  <title verify="true" type="str" auto="true"><![CDATA[Фифи ЛаФолл]]></title>
+  <keywords verify="true" type="list" auto="true">
+    <item type="str"><![CDATA[Персонажи по алфавиту]]></item>
+    <item type="str"><![CDATA[Люди]]></item>
+    <item type="str"><![CDATA[Женщины]]></item>
+    <item type="str"><![CDATA[Волшебники]]></item>
+    <item type="str"><![CDATA[Рождённые в 19 веке]]></item>
+    <item type="str"><![CDATA[Авторы]]></item>
+    <item type="str"><![CDATA[Волшебники месяца]]></item>
+    <item type="str"><![CDATA[Умершие]]></item>
+  </keywords>
+  <text verify="true" type="str" auto="true"><![CDATA[Фифи ЛаФолл (англ. Fifi LaFolle, 1888—1971) — волшебница, автор серии книг «Очарованные встречи».
+Интересные факты
+Фифи Лафолл была изображена на карточках от шоколадных лягушек (возможно), а также в октябре 2005 года стала волшебником месяца.
+Образ Фифи ЛаФолл, очевидно, вдохновлён образом английской писательницы женских романов Барбары Картленд.
+В переводе с французского языка La Folle значит «сумасшедшая».]]></text>
+</doc>

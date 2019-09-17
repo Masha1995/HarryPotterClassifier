@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <source><![CDATA[https://harrypotter.fandom.com/ru/wiki/%D0%90%D0%BB%D1%8C%D0%B1%D0%B5%D1%80%D1%82_%D0%91%D1%83%D1%82]]></source>
+  <category verify="true" type="str" auto="true">Фантастика</category>
+  <title verify="true" type="str" auto="true"><![CDATA[Альберт Бут]]></title>
+  <keywords verify="true" type="list" auto="true">
+    <item type="str"><![CDATA[Люди]]></item>
+    <item type="str"><![CDATA[Волшебники]]></item>
+    <item type="str"><![CDATA[Рождённые в 18 веке]]></item>
+    <item type="str"><![CDATA[Сотрудники Министерства Магии]]></item>
+    <item type="str"><![CDATA[Персонажи по алфавиту]]></item>
+    <item type="str"><![CDATA[Персонажи с неясным статусом крови]]></item>
+    <item type="str"><![CDATA[Перевод эксклюзивной информации с Pottermore]]></item>
+    <item type="str"><![CDATA[Министры магии Великобритании]]></item>
+  </keywords>
+  <text verify="true" type="str" auto="true"><![CDATA[Альберт Бут (англ. Albert Boot) — пятый Министр магии (1747-1752). Преемник Элдрича Диггори.
+Симпатичный, но неумелый. Ушёл в отставку после неудачи с гоблинским восстанием.]]></text>
+</doc>

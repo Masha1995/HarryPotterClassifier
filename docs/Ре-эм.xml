@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <source><![CDATA[https://harrypotter.fandom.com/ru/wiki/%D0%A0%D0%B5-%D1%8D%D0%BC]]></source>
+  <category verify="true" type="str" auto="true">Фантастика</category>
+  <title verify="true" type="str" auto="true"><![CDATA[Ре-эм]]></title>
+  <keywords verify="true" type="list" auto="true">
+    <item type="str"><![CDATA[Классификация Министерства Магии/ⅩⅩⅩⅩ]]></item>
+    <item type="str"><![CDATA[Волшебные существа по алфавиту]]></item>
+  </keywords>
+  <text verify="true" type="str" auto="true"><![CDATA[Ре-эм (англ. Re'em) (ⅩⅩⅩⅩ) — очень редкий вид гигантских быков с золотистой шкурой. Встречается в не заселённых человеком районах Северной Америки и Дальнего Востока. Если выпить кровь ре-эма, можно стать невероятно сильным, однако добыть её настолько трудно, что она почти никогда не появляется в открытой продаже.]]></text>
+</doc>

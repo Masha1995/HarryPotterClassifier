@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <source><![CDATA[https://harrypotter.fandom.com/ru/wiki/%D0%9C%D0%B0%D0%BA%D1%81%D0%B8%D0%BC%D0%B8%D0%BB%D0%B8%D0%B0%D0%BD_%D0%9A%D1%80%D0%B0%D1%83%D0%B4%D0%B8]]></source>
+  <category verify="true" type="str" auto="true">Фантастика</category>
+  <title verify="true" type="str" auto="true"><![CDATA[Максимилиан Крауди]]></title>
+  <keywords verify="true" type="list" auto="true">
+    <item type="str"><![CDATA[Люди]]></item>
+    <item type="str"><![CDATA[Волшебники]]></item>
+    <item type="str"><![CDATA[Персонажи по алфавиту]]></item>
+    <item type="str"><![CDATA[Персонажи с неясным статусом крови]]></item>
+    <item type="str"><![CDATA[Сотрудники Министерства Магии]]></item>
+    <item type="str"><![CDATA[Рождённые в 18 веке]]></item>
+    <item type="str"><![CDATA[Мужчины]]></item>
+    <item type="str"><![CDATA[Перевод эксклюзивной информации с Pottermore]]></item>
+    <item type="str"><![CDATA[Неканонические персонажи]]></item>
+    <item type="str"><![CDATA[Британцы]]></item>
+    <item type="str"><![CDATA[Умершие]]></item>
+    <item type="str"><![CDATA[Министры магии Великобритании]]></item>
+  </keywords>
+  <text verify="true" type="str" auto="true"><![CDATA[Максимилиан Крауди (англ. Maximilian Crowdy) — восьмой министр магии Великобритании (1770—1781). Преемник Гесфестуса Гора.
+Отец девяти детей, он был харизматичным лидером, который обезвредил несколько группировок чистокровных, планировавших нападения на маглов.]]></text>
+</doc>

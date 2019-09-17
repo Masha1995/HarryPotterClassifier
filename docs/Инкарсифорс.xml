@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <source><![CDATA[https://harrypotter.fandom.com/ru/wiki/%D0%98%D0%BD%D0%BA%D0%B0%D1%80%D1%81%D0%B8%D1%84%D0%BE%D1%80%D1%81]]></source>
+  <category verify="true" type="str" auto="true">Фантастика</category>
+  <title verify="true" type="str" auto="true"><![CDATA[Инкарсифорс]]></title>
+  <keywords verify="true" type="list" auto="true">
+    <item type="str"><![CDATA[Заклинания по алфавиту]]></item>
+    <item type="str"><![CDATA[Трансфигурационные заклинания]]></item>
+    <item type="str"><![CDATA[Боевые заклинания]]></item>
+  </keywords>
+  <text verify="true" type="str" auto="true"><![CDATA[Инкарсифорс (англ.Incarcifors) — заклятие, заточающее в клетку. Относится к трансфигурационным, так как в клетку превращается висящая над противником люстра.
+Этимология
+Заклинание происходит от лат. «incarceratus», что означает «заключённый».]]></text>
+</doc>

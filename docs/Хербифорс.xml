@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <source><![CDATA[https://harrypotter.fandom.com/ru/wiki/%D0%A5%D0%B5%D1%80%D0%B1%D0%B8%D1%84%D0%BE%D1%80%D1%81]]></source>
+  <category verify="true" type="str" auto="true">Фантастика</category>
+  <title verify="true" type="str" auto="true"><![CDATA[Хербифорс]]></title>
+  <keywords verify="true" type="list" auto="true">
+    <item type="str"><![CDATA[Заклинания по алфавиту]]></item>
+    <item type="str"><![CDATA[Трансфигурационные заклинания]]></item>
+  </keywords>
+  <text verify="true" type="str" auto="true"><![CDATA[Хербифорс, или Гербифорс (англ. Herbifors) — заклинание, которое превращает волосы жертвы в цветы.
+Появление
+LEGO Гарри Поттер: годы 1-4
+LEGO Гарри Поттер: годы 5-7]]></text>
+</doc>

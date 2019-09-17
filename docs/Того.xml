@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <source><![CDATA[https://harrypotter.fandom.com/ru/wiki/%D0%A2%D0%BE%D0%B3%D0%BE]]></source>
+  <category verify="true" type="str" auto="true">Фантастика</category>
+  <title verify="true" type="str" auto="true"><![CDATA[Того]]></title>
+  <keywords verify="true" type="list" auto="true">
+    <item type="str"><![CDATA[Требует доработки]]></item>
+    <item type="str"><![CDATA[Страны]]></item>
+    <item type="str"><![CDATA[Африка]]></item>
+    <item type="str"><![CDATA[Локации по алфавиту]]></item>
+  </keywords>
+  <text verify="true" type="str" auto="true"><![CDATA[Того (англ. Togo) — страна в Западной Африке. Столица — Ломе. Граничит с Бенином, Ганой и Буркина-Фасо.
+В мире Гарри Поттера
+Известна квиддичная команда из Того — «Чародеи Чамбры».
+Юные колдуны и волшебницы Того обучаются в Школе магии Уагаду.]]></text>
+</doc>

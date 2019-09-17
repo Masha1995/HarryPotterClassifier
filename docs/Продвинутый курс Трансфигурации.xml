@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <source><![CDATA[https://harrypotter.fandom.com/ru/wiki/%D0%9F%D1%80%D0%BE%D0%B4%D0%B2%D0%B8%D0%BD%D1%83%D1%82%D1%8B%D0%B9_%D0%BA%D1%83%D1%80%D1%81_%D0%A2%D1%80%D0%B0%D0%BD%D1%81%D1%84%D0%B8%D0%B3%D1%83%D1%80%D0%B0%D1%86%D0%B8%D0%B8]]></source>
+  <category verify="true" type="str" auto="true">Фантастика</category>
+  <title verify="true" type="str" auto="true"><![CDATA[Продвинутый курс Трансфигурации]]></title>
+  <keywords verify="true" type="list" auto="true">
+    <item type="str"><![CDATA[Книги по алфавиту]]></item>
+    <item type="str"><![CDATA[Трансфигурация (предмет)]]></item>
+    <item type="str"><![CDATA[6 курс]]></item>
+    <item type="str"><![CDATA[Учебники]]></item>
+  </keywords>
+  <text verify="true" type="str" auto="true"><![CDATA[«Продвинутый курс Трансфигурации» (англ. A Guide to Advanced Transfiguration) — учебник по трансфигурации для шестого и седьмого курсов, учебник уровня ЖАБА, использовался для углублённого изучения предмета.
+История
+Экземпляр учебника находился в портфеле Седрика Диггори в 1994-1995 году. Гарри Поттер использовал заклинание Диффиндо к сумке Седрика, и та порвалась. Гарри, пока пуффендуец очищал содержимое от чернил, предупредил его о драконах на первом испытании.]]></text>
+</doc>

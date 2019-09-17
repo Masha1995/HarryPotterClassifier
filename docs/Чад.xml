@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <source><![CDATA[https://harrypotter.fandom.com/ru/wiki/%D0%A7%D0%B0%D0%B4]]></source>
+  <category verify="true" type="str" auto="true">Фантастика</category>
+  <title verify="true" type="str" auto="true"><![CDATA[Чад]]></title>
+  <keywords verify="true" type="list" auto="true">
+    <item type="str"><![CDATA[Страны]]></item>
+    <item type="str"><![CDATA[Африка]]></item>
+    <item type="str"><![CDATA[Локации по алфавиту]]></item>
+  </keywords>
+  <text verify="true" type="str" auto="true"><![CDATA[Чад (англ. Chad) — государство в Центральной Африке, крупнейшее из тех, что не имеют выхода к морю. Граничит с Нигером, Нигерией, Камеруном, Центральноафриканской Республикой, Суданом и Ливией. Форма правления — президентская республика. Столица — Нджамена.
+В мире Гарри Поттера
+Сборная Чада по квиддичу]]></text>
+</doc>

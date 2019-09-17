@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <source><![CDATA[https://harrypotter.fandom.com/ru/wiki/%D0%A0%D0%BE%D0%B7%D1%8C%D0%B5-%D1%81%D1%82%D0%B0%D1%80%D1%88%D0%B8%D0%B9]]></source>
+  <category verify="true" type="str" auto="true">Фантастика</category>
+  <title verify="true" type="str" auto="true"><![CDATA[Розье-старший]]></title>
+  <keywords verify="true" type="list" auto="true">
+    <item type="str"><![CDATA[Персонажи по алфавиту]]></item>
+    <item type="str"><![CDATA[Люди]]></item>
+    <item type="str"><![CDATA[Мужчины]]></item>
+    <item type="str"><![CDATA[Волшебники]]></item>
+    <item type="str"><![CDATA[Чистокровные]]></item>
+    <item type="str"><![CDATA[Семья Розье]]></item>
+    <item type="str"><![CDATA[Слизеринцы]]></item>
+    <item type="str"><![CDATA[Тёмные маги]]></item>
+    <item type="str"><![CDATA[Рождённые в 1920-е]]></item>
+  </keywords>
+  <text verify="true" type="str" auto="true"><![CDATA[Розье старший (англ. Rosier Sr.; имя неизвестно) — чистокровный волшебник, Пожиратель смерти, отец Эвана Розье.
+Розье был в числе Пожирателей смерти, ожидавших Тома Реддла зимой 1956 года из Хогвартса, когда тот просил у Дамблдора должность преподавателя Защиты от тёмных искусств. Дальнейшая судьба Розье старшего неизвестна, но не исключено, что он дожил и до битвы за Хогвартс.]]></text>
+</doc>

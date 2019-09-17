@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <source><![CDATA[https://harrypotter.fandom.com/ru/wiki/%D0%93%D0%BB%D0%BE%D0%B2%D0%B5%D1%80_%D0%A5%D0%B8%D0%BF%D0%B2%D0%BE%D1%80%D1%82]]></source>
+  <category verify="true" type="str" auto="true">Фантастика</category>
+  <title verify="true" type="str" auto="true"><![CDATA[Гловер Хипворт]]></title>
+  <keywords verify="true" type="list" auto="true">
+    <item type="str"><![CDATA[Персонажи по алфавиту]]></item>
+    <item type="str"><![CDATA[Люди]]></item>
+    <item type="str"><![CDATA[Мужчины]]></item>
+    <item type="str"><![CDATA[Волшебники]]></item>
+    <item type="str"><![CDATA[Рождённые в 18 веке]]></item>
+    <item type="str"><![CDATA[Зельевары]]></item>
+    <item type="str"><![CDATA[Целители]]></item>
+    <item type="str"><![CDATA[Карточки из шоколадных лягушек]]></item>
+    <item type="str"><![CDATA[Бронзовые карточки из шоколадных лягушек]]></item>
+    <item type="str"><![CDATA[Портреты]]></item>
+    <item type="str"><![CDATA[Умершие]]></item>
+    <item type="str"><![CDATA[Персонажи с неясным статусом крови]]></item>
+    <item type="str"><![CDATA[Неканонические персонажи]]></item>
+  </keywords>
+  <text verify="true" type="str" auto="true"><![CDATA[Гловер Хипворт (англ. Glover Hipworth, 1742-1805) — создатель бодроперцового зелья. Поскольку зелье излечивает простуду, Хипворта можно считать целителем.
+Был запечатлён на одном из портретов в школе чародейства и волшебства Хогвартс. Скрывал за собой секретную комнату. Пароль к нему: «Будьте здоровы!»]]></text>
+</doc>

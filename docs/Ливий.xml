@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <source><![CDATA[https://harrypotter.fandom.com/ru/wiki/%D0%9B%D0%B8%D0%B2%D0%B8%D0%B9]]></source>
+  <category verify="true" type="str" auto="true">Фантастика</category>
+  <title verify="true" type="str" auto="true"><![CDATA[Ливий]]></title>
+  <keywords verify="true" type="list" auto="true">
+    <item type="str"><![CDATA[Персонажи по алфавиту]]></item>
+    <item type="str"><![CDATA[Люди]]></item>
+    <item type="str"><![CDATA[Мужчины]]></item>
+    <item type="str"><![CDATA[Волшебники]]></item>
+    <item type="str"><![CDATA[Владельцы Бузинной палочки]]></item>
+  </keywords>
+  <text verify="true" type="str" auto="true"><![CDATA[Ливий (англ. Livius) —волшебник, владевший Бузинной палочкой. Не выяснено, кто убил предыдущего хозяина палочки Локсия — Ливий или Аркус. Также неизвестно, кто стал влальцем Бузинной палочки после смерти Ливия.
+Этимология
+Ливием звали историка, написавшего историю Рима. Вероятно, имя происходит от латинского liveo, что значит «завидовать».]]></text>
+</doc>

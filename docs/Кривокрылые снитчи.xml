@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <source><![CDATA[https://harrypotter.fandom.com/ru/wiki/%D0%9A%D1%80%D0%B8%D0%B2%D0%BE%D0%BA%D1%80%D1%8B%D0%BB%D1%8B%D0%B5_%D1%81%D0%BD%D0%B8%D1%82%D1%87%D0%B8]]></source>
+  <category verify="true" type="str" auto="true">Фантастика</category>
+  <title verify="true" type="str" auto="true"><![CDATA[Кривокрылые снитчи]]></title>
+  <keywords verify="true" type="list" auto="true">
+    <item type="str"><![CDATA[Музыкальные группы]]></item>
+    <item type="str"><![CDATA[Перевод эксклюзивной информации с Pottermore]]></item>
+  </keywords>
+  <text verify="true" type="str" auto="true"><![CDATA[«Кривокрылые снитчи» (англ. The Bent-Winged Snitches) — скандальная музыкальная группа волшебников из США. Была чрезвычайно популярна в 2014 году. Когда группа посетила Чемпионат мира по квиддичу в Аргентине, их осаждали поклонники в надежде получить автограф или прикоснуться к своим кумирам.]]></text>
+</doc>

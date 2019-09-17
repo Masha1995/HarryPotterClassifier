@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <source><![CDATA[https://harrypotter.fandom.com/ru/wiki/%D0%93%D0%BE%D0%B1%D0%BB%D0%B8%D0%BD%D1%8B_%D0%93%D1%80%D0%BE%D0%B4%D0%B7%D0%B8%D1%81%D0%BA%D0%B0]]></source>
+  <category verify="true" type="str" auto="true">Фантастика</category>
+  <title verify="true" type="str" auto="true"><![CDATA[Гоблины Гродзиска]]></title>
+  <keywords verify="true" type="list" auto="true">
+    <item type="str"><![CDATA[Квиддичные команды]]></item>
+  </keywords>
+  <text verify="true" type="str" auto="true"><![CDATA[«Гоблины Гродзиска» (англ. Grodzisk Goblins; польск. Gobliny z Grodziska) — польская квиддичная команда. Кеннилуорти Уисп отмечает её как достаточно перспективную.
+Одним из самых известных в мире игроков, по мнению Кеннилуорти Уиспа, является ловец команды «Гоблины Гродзиска» Йозеф Вронский, изобретатель знаменитого квиддичного приёма Финт Вронского.]]></text>
+</doc>

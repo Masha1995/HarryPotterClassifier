@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <source><![CDATA[https://harrypotter.fandom.com/ru/wiki/%D0%94%D0%B0%D0%BA%D0%BB%D0%B8%D1%84%D0%BE%D1%80%D1%81]]></source>
+  <category verify="true" type="str" auto="true">Фантастика</category>
+  <title verify="true" type="str" auto="true"><![CDATA[Даклифорс]]></title>
+  <keywords verify="true" type="list" auto="true">
+    <item type="str"><![CDATA[Заклинания по алфавиту]]></item>
+    <item type="str"><![CDATA[Трансфигурационные заклинания]]></item>
+  </keywords>
+  <text verify="true" type="str" auto="true"><![CDATA[Даклифорс (англ. Ducklifors) — заклинание, которое превращает объект в утку. Соплохвосты восприимчивы к этому заклинанию.
+Исполнение заклинания
+Заклинатель должен опустить палочку резко вниз и направить на объект, представляя утку перед собой. Из кончика палочки выстрелит струя жёлтого света. Когда луч попадёт в цель, сверкнёт жёлтая вспышка, и объект превратится в утку.
+Этимология
+Заклинание происходит от англ. «duck», что переводится как «утка».]]></text>
+</doc>

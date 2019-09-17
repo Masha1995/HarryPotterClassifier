@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <source><![CDATA[https://harrypotter.fandom.com/ru/wiki/%D0%94%D0%B2%D1%83%D0%BF%D0%B0%D0%BB%D1%8B%D0%B9_%D1%82%D1%80%D0%B8%D1%82%D0%BE%D0%BD]]></source>
+  <category verify="true" type="str" auto="true">Фантастика</category>
+  <title verify="true" type="str" auto="true"><![CDATA[Двупалый тритон]]></title>
+  <keywords verify="true" type="list" auto="true">
+    <item type="str"><![CDATA[Волшебные существа по алфавиту]]></item>
+    <item type="str"><![CDATA[Карточки из шоколадных лягушек]]></item>
+    <item type="str"><![CDATA[Жабы и тритоны]]></item>
+    <item type="str"><![CDATA[Золотые карточки из шоколадных лягушек]]></item>
+  </keywords>
+  <text verify="true" type="str" auto="true"><![CDATA[Двупалый тритон (англ. Double-ended Newt) — это двуглавая амфибия, которая любит воду. Продаётся в «Волшебном зверинце».]]></text>
+</doc>

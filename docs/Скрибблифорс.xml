@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <source><![CDATA[https://harrypotter.fandom.com/ru/wiki/%D0%A1%D0%BA%D1%80%D0%B8%D0%B1%D0%B1%D0%BB%D0%B8%D1%84%D0%BE%D1%80%D1%81]]></source>
+  <category verify="true" type="str" auto="true">Фантастика</category>
+  <title verify="true" type="str" auto="true"><![CDATA[Скрибблифорс]]></title>
+  <keywords verify="true" type="list" auto="true">
+    <item type="str"><![CDATA[Заклинания по алфавиту]]></item>
+    <item type="str"><![CDATA[Трансфигурационные заклинания]]></item>
+  </keywords>
+  <text verify="true" type="str" auto="true"><![CDATA[Скрибблифорс (англ. Scribblifors) — заклинание, превращающее объект в перо. Оно особо эффективно работает на вилках.
+Известно лишь одно применение: на вилке Грегори Гойла во время его обучения либо на первом, на втором, или на третьем курсе.]]></text>
+</doc>

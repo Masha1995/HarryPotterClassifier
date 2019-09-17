@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <source><![CDATA[https://harrypotter.fandom.com/ru/wiki/%D0%9C%D0%B5%D0%BB%D0%BE%D1%84%D0%BE%D1%80%D1%81]]></source>
+  <category verify="true" type="str" auto="true">Фантастика</category>
+  <title verify="true" type="str" auto="true"><![CDATA[Мелофорс]]></title>
+  <keywords verify="true" type="list" auto="true">
+    <item type="str"><![CDATA[Требует доработки]]></item>
+    <item type="str"><![CDATA[Заклинания по алфавиту]]></item>
+    <item type="str"><![CDATA[Трансфигурационные заклинания]]></item>
+  </keywords>
+  <text verify="true" type="str" auto="true"><![CDATA[Мелофорс (англ. Melofors) — «тыквоголовое» заклятие. Превращает голову объекта в тыкву.
+Действует на шиплингов в сочетании с Карпе Ретрактум.
+История
+В 1995 году после увольнения Альбуса Дамблдора с поста директора по школе ходили слухи, что при побеге из школы он заколдовал министра Фаджа, и теперь он лежит в больнице Св. Мунго с тыквой вместо головы.]]></text>
+</doc>
