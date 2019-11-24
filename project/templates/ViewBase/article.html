@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>Harry Potter Classifier | Сервис проверки теста на принадлежность к классу предметов по вселенной Гарри Поттера</title>
+</head>
+<body>
+	<header>
+		<h2><a href="/">Harry Potter Classifier</a></h2>
+		<nav>
+			<a href="/check">Проверка текста</a>
+			|
+			<a href="/classes">База данных</a>
+		</nav>
+	</header>
+	<div>
+		<a href="/class/{{ class.name }}">Вернуться к списку статей по классу "{{ class.description }}"</a>
+		<h1>{{ article.title }}</h1>
+	</div>
+	<article style="width: 80%; white-space: pre-line; text-indent:40px;">{{ article.text }}</article>
+</body>
+</html>
