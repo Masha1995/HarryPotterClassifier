@@ -1,25 +1,31 @@
 <!DOCTYPE html>
+{% load staticfiles %}
 <html>
 <head>
     <meta charset="utf-8" />
     <title>Harry Potter Classifier | Сервис проверки теста на принадлежность к классу предметов по вселенной Гарри Поттера</title>
+    <link rel="stylesheet" href="{% static "/style.css" %}">
+    <link rel="shortcut icon" type="image/png" href="{% static "favicon.ico" %}">
 </head>
 <body>
-	<header>
-		<h2><a href="/">Harry Potter Classifier</a></h2>
-		<nav>
-			<a href="/check">Проверка текста</a>
+	<header class="site-header">
+		<h2 class="text-center"><a href="/" class="text-color font">Harry Potter Classifier</a></h2>
+		<nav class="text-center text-color text-nav">
+			<a class="text-color" href="/check">Проверка текста</a>
 			|
-			<a href="/classes">Статьи</a>
+			<a class="text-color" href="/classes">Статьи</a>
 		</nav>
 	</header>
 	<div>
-		<h1>Классы текстов:</h1>
+		<h1 class="text-color textH">Классы текстов:</h1>
 	</div>
-	<div>
+	<div class="link body-site" style="background: url({% static "image/hermiona.jpg" %}); margin: 10px;">
 		{% for class in classes %}
-			<li><a href="/class/{{ class.name }}">{{ class.description }}</a></li>
+			<li><a class="link textP" href="/class/{{ class.name }}">{{ class.description }}</a></li>
 		{% endfor %}
+        <div class="text-color textH">
+		    Всего статей: {{ quantity }}
+	    </div>
 	</div>
 </body>
 </html>

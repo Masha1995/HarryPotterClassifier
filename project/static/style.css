@@ -1,0 +1,68 @@
+@font-face {
+    font-family: "Harry Potter";
+    src: url("/static/Harry Potter.ttf");
+    }
+body{
+    margin: 0;
+    padding: 0;
+    background-color: #000000;
+}
+.text-center{
+    text-align: center;
+}
+.text-color{
+    color:#FFFFFF;
+}
+.font{
+    font-family: "Harry Potter";
+    Font-size:70px;
+    text-decoration: none;
+}
+.site-header{
+    width: 100%;
+    height: 150px;
+    background-image: url("/static/image/header.jpg");
+    background-repeat:no-repeat;
+}
+.text-nav{
+    border: 0;
+    font-family: Times New Roman;
+    Font-size:20px;
+}
+.body-site{
+    margin: 0;
+    padding: 0;
+    height: 450px;
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+.textH{
+    font-family: Georgia;
+    Font-size:30px;
+    padding: 10px;
+}
+.textP{
+    font-family: Times New Roman;
+    Font-size:18px;
+    padding: 10px;
+}
+.textE {
+    font-family: Times New Roman;
+    Font-size: 22px;
+    padding: 10px;
+}
+.link{
+    color: greenyellow;
+    padding-left: 15px;
+}
+.textT {
+    width: 80%;
+    white-space: pre-line;
+    text-indent:40px;
+    padding-left: 15px;
+}
+.textResult{
+    font-family: Times New Roman;
+    Font-size: 24px;
+    padding: 10px;
+}

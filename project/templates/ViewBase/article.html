@@ -1,22 +1,25 @@
 <!DOCTYPE html>
+{% load staticfiles %}
 <html>
 <head>
     <meta charset="utf-8" />
     <title>Harry Potter Classifier | Сервис проверки теста на принадлежность к классу предметов по вселенной Гарри Поттера</title>
+    <link rel="stylesheet" href="{% static "/style.css" %}">
+    <link rel="shortcut icon" type="image/png" href="{% static "favicon.ico" %}">
 </head>
 <body>
-	<header>
-		<h2><a href="/">Harry Potter Classifier</a></h2>
-		<nav>
-			<a href="/check">Проверка текста</a>
+	<header class="site-header">
+		<h2 class="text-center"><a href="/" class="text-color font">Harry Potter Classifier</a></h2>
+		<nav class="text-center text-color text-nav">
+			<a class="text-color" href="/check">Проверка текста</a>
 			|
-			<a href="/classes">Статьи</a>
+			<a class="text-color" href="/classes">Статьи</a>
 		</nav>
 	</header>
 	<div>
-		<a href="/class/{{ class.name }}">Вернуться к списку статей по классу "{{ class.description }}"</a>
-		<h1>{{ article.title }}</h1>
+		<a class="link" href="/class/{{ class.name }}">Вернуться к списку статей по классу "{{ class.description }}"</a>
+		<h1 class="text-color textH">{{ article.title }}</h1>
 	</div>
-	<article style="width: 80%; white-space: pre-line; text-indent:40px;">{{ article.text }}</article>
+	<article class="textT text-color">{{ article.text }}</article>
 </body>
 </html>

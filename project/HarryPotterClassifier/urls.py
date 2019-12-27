@@ -24,6 +24,6 @@ urlpatterns = [
     path('check', checkTextAppViews.check),
     path('classes', viewBaseAppViews.allClasses),
     re_path(r'^class/(?P<class_name>\w+)', viewBaseAppViews.classArticles),
-    re_path(r'^article/(?P<article_id>\w+)', viewBaseAppViews.article),
+    re_path(r'^article/(?P<article_id>\d+)$', viewBaseAppViews.article),
     re_path(r'^.+', TemplateView.as_view(template_name="pagenotfound.html")),
 ]

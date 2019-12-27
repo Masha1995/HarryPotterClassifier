@@ -1,27 +1,32 @@
 <!DOCTYPE html>
+{% load staticfiles %}
 <html>
 <head>
     <meta charset="utf-8" />
     <title>Harry Potter Classifier | Сервис проверки теста на принадлежность к классу предметов по вселенной Гарри Поттера</title>
+    <link rel="stylesheet" href="{% static "/style.css" %}">
+    <link rel="shortcut icon" type="image/png" href="{% static "favicon.ico" %}">
 </head>
 <body>
-	<header>
-		<h2><a href="/">Harry Potter Classifier</a></h2>
-		<nav>
-			<a href="/check">Проверка текста</a>
+	<header class="site-header">
+		<h2 class="text-center"><a href="/" class="text-color font">Harry Potter Classifier</a></h2>
+		<nav class="text-center text-color text-nav">
+			<a class="text-color" href="/check">Проверка текста</a>
 			|
-			<a href="/classes">Статьи</a>
+			<a class="text-color" href="/classes">Статьи</a>
 		</nav>
 	</header>
-	<div>
-		<h1>Сервис проверки теста на принадлежность к классу предметов по вселенной Гарри Поттера</h1>
-		<p>
-			Сайт Harry Potter Classifier использует обученную при помощи машинного обучения модель для определения наиболее подходящего класса для вашего текста.<br>
-			<a href="check">Попробуйте скорее опробовать классификатор</a>
+	<div class="body-site" style="background: url({% static "image/harry.jpg" %});">
+       	<h1 class="text-color textH">Сервис проверки теста на принадлежность к классу предметов<br>
+            по вселенной Гарри Поттера</h1>
+		<p class="text-color textP">
+			Сайт Harry Potter Classifier использует обученную при помощи машинного обучения модель для определения<br>
+            наиболее подходящего класса для вашего текста.<br>
+			<a href="check" class="link">Попробуйте скорее опробовать классификатор</a>
 		</p>
-		<p>
+		<p class="text-color textP">
 			Для обучения модели было использовано более 1000 статей и выделено более 10 классов текста.<br>
-			<a href="classes">Вы можете посмотреть их прямо сейчас</a>
+			<a href="classes" class="link">Вы можете посмотреть их прямо сейчас</a>
 		</p>
 	</div>
 </body>
